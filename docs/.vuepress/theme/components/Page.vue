@@ -3,6 +3,8 @@
     <slot name="top"/>
 
     <Content class="theme-default-content"/>
+    
+    <el-backtop><KittyTop></KittyTop></el-backtop>
 
     <footer class="page-edit">
       <div
@@ -24,8 +26,8 @@
         <span class="prefix">{{ lastUpdatedText }}: </span>
         <span class="time">{{ lastUpdated }}</span>
       </div>
-      <CopyRight></CopyRight>
-      <el-backtop><KittyTop></KittyTop></el-backtop>
+      
+      <CopyRight style="margin-top: 30px;"></CopyRight>
     </footer>
 
     <div class="page-nav" v-if="prev || next">
