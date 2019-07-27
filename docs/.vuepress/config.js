@@ -9,7 +9,7 @@ module.exports = {
         repo: 'godbasin/front-end-playground',
         // 自定义仓库链接文字。默认从 `themeConfig.repo` 中自动推断为
         // "GitHub"/"GitLab"/"Bitbucket" 其中之一，或是 "Source"。
-        repoLabel: '查看源码',
+        repoLabel: 'Github',
     
         // 以下为可选的编辑链接选项
     
@@ -30,8 +30,7 @@ module.exports = {
             { text: '小程序学习', link: '/wxapp/' },
             { text: '百家齐放', link: '/front-end-others/' },
             { text: '前端的进击', link: '/front-end-addon/' },
-            { text: 'FAQ', link: '/faq' },
-            { text: 'github', link: 'https://github.com/godbasin/front-end-playground' },
+            { text: 'FAQ', link: '/faq' }
         ],
         sidebar: {
             '/front-end-basic/': [
