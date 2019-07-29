@@ -1,3 +1,56 @@
+function integrateGitalk(router) {
+  const linkGitalk = document.createElement('link');
+  linkGitalk.href = 'https://github-imglib-1255459943.cos.ap-chengdu.myqcloud.com/gitalk.css';
+  linkGitalk.rel = 'stylesheet';
+  document.body.appendChild(linkGitalk);
+  const scriptGitalk = document.createElement('script');
+  scriptGitalk.src = 'https://github-imglib-1255459943.cos.ap-chengdu.myqcloud.com/gitalk.min.js';
+  document.body.appendChild(scriptGitalk);
+
+  router.afterEach((to, from) => {
+    // 页面滚动，hash值变化，也会触发afterEach钩子，避免重新渲染
+    if (!to.path || to.path === from.path) return
+
+    if (scriptGitalk.onload) {
+      loadGitalk(to);
+    } else {
+      scriptGitalk.onload = () => {
+        loadGitalk(to);
+      }
+    }
+  });
+
+  function loadGitalk(to) {
+    console.log({to})
+    let commentsContainer = document.getElementById('gitalk-container');
+    if (!commentsContainer) {
+      commentsContainer = document.createElement('div');
+      commentsContainer.id = 'gitalk-container';
+      commentsContainer.classList.add('content');
+    }
+    const $page = document.querySelector('.gitalk-container');
+    if ($page) {
+      $page.appendChild(commentsContainer);
+      if (typeof Gitalk !== 'undefined' && Gitalk instanceof Function) {
+        renderGitalk(to.path);
+      }
+    }
+  }
+  function renderGitalk(path) {
+    const gitalk = new Gitalk({
+      clientID: '1e0f6e251a3692a7e176',
+      clientSecret: '37c9121a50e293aa5712ac9814fdfd2c775b6274', // come from github development
+      repo: 'blog',
+      owner: 'godbasin',
+      admin: ['godbasin'],
+      id: path,
+      distractionFreeMode: false,
+      language: 'zh-CN',
+    });
+    gitalk.render('gitalk-container');
+  }
+}
+
 import ElementUI from "element-ui";
 import "element-ui/lib/theme-chalk/index.css";
 
@@ -8,6 +61,8 @@ export default ({
   siteData // 站点元数据
 }) => {
   try {
+    // document && integrateGitalk(router)
+
     // 使用element-ui
     Vue.use(ElementUI);
   } catch (e) {

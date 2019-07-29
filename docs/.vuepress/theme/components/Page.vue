@@ -64,6 +64,8 @@
     </div>
 
     <slot name="bottom"/>
+
+    <div class="gitalk-container theme-default-content"></div>
   </main>
 </template>
 
