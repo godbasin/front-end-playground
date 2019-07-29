@@ -26,6 +26,8 @@
         <span class="prefix">{{ lastUpdatedText }}: </span>
         <span class="time">{{ lastUpdated }}</span>
       </div>
+
+      <blockquote>部分文章中使用了一些网站的截图，如果涉及侵权，请告诉我删一下谢谢~</blockquote>
       
       <CopyRight style="margin-top: 30px;"></CopyRight>
     </footer>

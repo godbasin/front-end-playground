@@ -1,16 +1,15 @@
 <template>
   <div id="kitty-container" v-if="isShow">
-    <el-popover @mousedown.native="move" @touchstart.native="touch" @dblclick.native="isShow = false;"
-    trigger="hover">
+    <el-popover @mousedown.native="move" @touchstart.native="touch" trigger="hover">
       <img class="image"  @click="dialogVisible = true" src="https://github-imglib-1255459943.cos.ap-chengdu.myqcloud.com/2code2.jpg">
       <div class="text">牡羊猪的猫粮罐</div>
-      <div id="kitty" :style="{background: 'url(' + kittyUrl + ')'}" slot="reference"></div>
+      <div id="kitty" @dblclick="deleteKitty" v-longpress="deleteKitty" :style="{background: 'url(' + kittyUrl + ')'}" slot="reference"></div>
     </el-popover>
 
     <el-dialog
       title="牡羊猪是这样渐渐胖成猪的喵（点击图片可以切换噢）"
       :visible.sync="dialogVisible">
-      <el-image :src="pigUrl" style="max-height: 500ox;min-height: 200px;" @click="changePig()" fit="cover">
+      <el-image :src="pigUrl" style="min-height: 200px;" @click="changePig()" fit="contain">
         <div slot="placeholder" class="image-slot">
           <img src="https://github-imglib-1255459943.cos.ap-chengdu.myqcloud.com/assets/img/loading.gif" style="width: 100%" />
         </div>
@@ -109,6 +108,72 @@ export default {
       }
       el.addEventListener("touchmove", touchMove);
       el.addEventListener("touchend", touchEnd);
+    },
+    deleteKitty(){
+      this.isShow = false;
+    }
+  },
+  directives: {
+    longpress: {
+      bind: function(el, binding, vNode) {
+        // 确保提供的表达式是函数
+        if (typeof binding.value !== "function") {
+          // 获取组件名称
+          const compName = vNode.context.name;
+          // 将警告传递给控制台
+          let warn = `[longpress:] provided expression '${
+            binding.expression
+          }' is not a function, but has to be `;
+          if (compName) {
+            warn += `Found in component '${compName}' `;
+          }
+
+          console.warn(warn);
+        }
+
+        // 定义变量
+        let pressTimer = null;
+
+        // 定义函数处理程序
+        // 创建计时器（ 1秒后执行函数 ）
+        let start = e => {
+          if (e.type === "click" && e.button !== 0) {
+            return;
+          }
+
+          if (pressTimer === null) {
+            pressTimer = setTimeout(() => {
+              // 执行函数
+              handler();
+            }, 1000);
+          }
+        };
+
+        // 取消计时器
+        let cancel = e => {
+          // 检查计时器是否有值
+          if (pressTimer !== null) {
+            clearTimeout(pressTimer);
+            pressTimer = null;
+          }
+        };
+
+        // 运行函数
+        const handler = e => {
+          // 执行传递给指令的方法
+          binding.value(e);
+        };
+
+        // 添加事件监听器
+        el.addEventListener("mousedown", start);
+        el.addEventListener("touchstart", start);
+
+        // 取消计时器
+        el.addEventListener("click", cancel);
+        el.addEventListener("mouseout", cancel);
+        el.addEventListener("touchend", cancel);
+        el.addEventListener("touchcancel", cancel);
+      }
     }
   }
 };
@@ -116,6 +181,10 @@ export default {
 
 <style lang="stylus">
 @require '../styles/wrapper.styl'
+
+.el-image
+  > img 
+    max-height 500px
 
 .image
   width 150px
