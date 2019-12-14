@@ -196,6 +196,11 @@ module.exports = {
                         '/wxapp/wxapp-technique/wxapp-computed.md',
                         '/wxapp/wxapp-technique/wxapp-watch.md',
                         '/wxapp/wxapp-technique/wxapp-cloud.md',
+                        '/wxapp/wxapp-technique/wxapp-login.md',
+                        '/wxapp/wxapp-technique/wxapp-multi-request.md',
+                        '/wxapp/wxapp-technique/wxapp-global-data-behavior.md',
+                        '/wxapp/wxapp-technique/wxapp-logs.md',
+                        '/wxapp/wxapp-technique/wxapp-navigate.md',
                     ]
                 }, {
                     title: '小程序开发月刊',
@@ -208,6 +213,10 @@ module.exports = {
                         '/wxapp/wxapp-latest/wxapp-latest-20190515.md',
                         '/wxapp/wxapp-latest/wxapp-latest-20190617.md',
                         '/wxapp/wxapp-latest/wxapp-latest-20190715.md',
+                        '/wxapp/wxapp-latest/wxapp-latest-20190815.md',
+                        '/wxapp/wxapp-latest/wxapp-latest-20190916.md',
+                        '/wxapp/wxapp-latest/wxapp-latest-20191015.md',
+                        '/wxapp/wxapp-latest/wxapp-latest-20191115.md',
                     ]
                 }
             ],
