@@ -103,7 +103,7 @@ export default Behavior({
 ```
 
 显然，该 Behavior 主要提供了几个能力：  
-- 会在小程序 data 添加 globalData 的属性，在 WXML 文件中可以直接通过`{{globalData.xxxx}}`获取到
+- 会在小程序 data 添加 globalData 的属性，在 WXML 文件中可以直接通过`globalData.xxxx`获取到
 - 提供`setGlobalData()`方法，用于更新全局状态
 - 提供`setGlobalDataAndStorage()`方法，用于更新全局状态，同时写入缓存（会在下次启动应用的时候自动获取缓存数据）
 
