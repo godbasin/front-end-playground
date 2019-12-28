@@ -67,7 +67,7 @@ export default ({
     // 使用element-ui
     Vue.use(ElementUI);
     
-    document && integrateGitalk(router);
+    // document && integrateGitalk(router);
   } catch (e) {
     console.error(e.message);
   }
