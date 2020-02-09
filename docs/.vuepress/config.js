@@ -96,6 +96,9 @@ module.exports = {
                         '/vue/vue-multi-page/7-source-map-and-uglifyjs.md',
                         '/vue/vue-multi-page/8-certain-loaders.md',
                     ]
+                }, {
+                    title: '深入理解Vue.js与实战',
+                    path: 'https://godbasin.github.io/vue-ebook'
                 }
             ],     
             '/front-end-others/': [
@@ -217,6 +220,7 @@ module.exports = {
                         '/wxapp/wxapp-latest/wxapp-latest-20190916.md',
                         '/wxapp/wxapp-latest/wxapp-latest-20191015.md',
                         '/wxapp/wxapp-latest/wxapp-latest-20191115.md',
+                        '/wxapp/wxapp-latest/wxapp-latest-20191216.md',
                     ]
                 }
             ],
