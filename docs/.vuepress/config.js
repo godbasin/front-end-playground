@@ -221,6 +221,7 @@ module.exports = {
                         '/wxapp/wxapp-latest/wxapp-latest-20191015.md',
                         '/wxapp/wxapp-latest/wxapp-latest-20191115.md',
                         '/wxapp/wxapp-latest/wxapp-latest-20191216.md',
+                        '/wxapp/wxapp-latest/wxapp-latest-20200214.md',
                     ]
                 }
             ],
