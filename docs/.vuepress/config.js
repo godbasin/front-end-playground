@@ -30,6 +30,7 @@ module.exports = {
             { text: '小程序学习', link: '/wxapp/' },
             { text: '百家齐放', link: '/front-end-others/' },
             { text: '前端的进击', link: '/front-end-addon/' },
+            { text: '前端与工作', link: '/front-end-work/' },
             { text: 'FAQ', link: '/faq' }
         ],
         sidebar: {
@@ -222,6 +223,7 @@ module.exports = {
                         '/wxapp/wxapp-latest/wxapp-latest-20191115.md',
                         '/wxapp/wxapp-latest/wxapp-latest-20191216.md',
                         '/wxapp/wxapp-latest/wxapp-latest-20200214.md',
+                        '/wxapp/wxapp-latest/wxapp-latest-20200314.md',
                     ]
                 }
             ],
@@ -258,6 +260,25 @@ module.exports = {
                     children: [
                         '/front-end-addon/more-than-front-end/1-learning-database.md',
                         '/front-end-addon/more-than-front-end/2-sql-and-nosql.md',
+                    ]
+                }
+            ],
+            '/front-end-work/': [
+                {
+                    title: '前端这几年',
+                    collapsable: true,
+                    children: [
+                        '/front-end-work/front-end-days/about-front-end-1-begin-in.md',
+                        '/front-end-work/front-end-days/about-front-end-2-principle.md',
+                        '/front-end-work/front-end-days/about-front-end-3-growth.md',
+                        '/front-end-work/front-end-days/about-front-end-4-health.md',
+                    ]
+                }, {
+                    title: '面试这件事',
+                    collapsable: true,
+                    children: [
+                        '/front-end-work/interview/interview-1-ready.md',
+                        '/front-end-work/interview/interview-2-stage.md',
                     ]
                 }
             ],
