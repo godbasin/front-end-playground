@@ -3,6 +3,14 @@ title: 小程序开发月刊第14期（20200314）
 ---
 这个月大家都开始陆陆续续回去上班了，远程办公的环境也有了一大突破，线上会议的各种延迟和回音有时候依然让人尴尬。不过情况已经慢慢好转，希望各位的日子也会越来越好。
 <!--more-->
+---
+title: 小程序开发月刊第14期（20200314）
+date: 2020-03-14 20:46:50
+categories: 小程序双皮奶
+tags: 教程
+---
+这个月大家都开始陆陆续续回去上班了，远程办公的环境也有了一大突破，线上会议的各种延迟和回音有时候依然让人尴尬。不过情况已经慢慢好转，希望各位的日子也会越来越好。
+<!--more-->
 
 # 小程序 latest
 ## 小程序能力
@@ -30,6 +38,16 @@ title: 小程序开发月刊第14期（20200314）
 开发者可通过登录微信开发者工具的云开发控制台，在环境设置中直接开通按量付费功能。
 
 ## 开发者工具
+
+### 代码编译和上传 CI 模块
+[miniprogram-ci](https://www.npmjs.com/package/miniprogram-ci) 是从微信开发者工具中抽离的关于小程序/小游戏项目代码的编译模块。该npm 模块，封装了以下逻辑：
+- 对源代码进行校验
+- 对源代码进行预编译
+- 使用证书生成签名
+- 上传
+
+使用前需要使用小程序管理员身份访问"微信公众平台-开发-开发设置"后下载代码上传密钥，并配置 IP 白名单（可选，需要注意风险），才能进行上传、预览操作。
+- [参考文档地址](https://developers.weixin.qq.com/miniprogram/dev/devtools/ci.html)
 
 ### 微信开发者工具提供 API Mock 能力
 为了方便开发者进行功能开发和调试，从 1.02.202003062 版本开始，微信开发者工具提供 API Mock 功能，可模拟如wx.request 、wx.downloadFile 以及 wx.getBackgroundFetchData 等API 的调用结果，极大地降低了小程序的开发成本。
@@ -74,7 +92,11 @@ API Mock 功能可覆盖的应用场景包括但不限于：
 往期内容可以查看[文章分享](https://developers.weixin.qq.com/community/develop/article)
 
 ## 最新踩坑 && Tips
-最近踩坑较少，暂时木有更新哇。
+### 【同步踩坑信息】- 云函数
+1、小程序冷启动可能导致无状态云函数变成有状态
+2、避免使用`setTimeout`等异步调用，而应使用明确状态管理的`await`或`Promise`
+3、避免使用`cloud.getWXContext()`，而使用`cloud.getWXContext(context)`代替
+4、用到`Date`对象的函数应当设置时区环境变量，TZ=Asia/Shanghai
 
 ## 结束语
 如果你也使用Typescript的话，不妨看看我用各种踩坑经验整理的这个[小程序 typescript 最佳实践 demo](https://github.com/godbasin/wxapp-typescript-demo)。

@@ -272,6 +272,7 @@ module.exports = {
                         '/front-end-work/front-end-days/about-front-end-2-principle.md',
                         '/front-end-work/front-end-days/about-front-end-3-growth.md',
                         '/front-end-work/front-end-days/about-front-end-4-health.md',
+                        '/front-end-work/front-end-days/about-front-end-5.md',
                     ]
                 }, {
                     title: '面试这件事',
@@ -279,6 +280,7 @@ module.exports = {
                     children: [
                         '/front-end-work/interview/interview-1-ready.md',
                         '/front-end-work/interview/interview-2-stage.md',
+                        '/front-end-work/interview/interview-3-basic-skills.md',
                     ]
                 }
             ],
