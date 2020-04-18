@@ -224,6 +224,7 @@ module.exports = {
                         '/wxapp/wxapp-latest/wxapp-latest-20191216.md',
                         '/wxapp/wxapp-latest/wxapp-latest-20200214.md',
                         '/wxapp/wxapp-latest/wxapp-latest-20200314.md',
+                        '/wxapp/wxapp-latest/wxapp-latest-20200415.md',
                     ]
                 }
             ],
@@ -274,6 +275,8 @@ module.exports = {
                         '/front-end-work/front-end-days/about-front-end-4-health.md',
                         '/front-end-work/front-end-days/about-front-end-5.md',
                         '/front-end-work/front-end-days/about-front-end-6.md',
+                        '/front-end-work/front-end-days/about-front-end-7.md',
+                        '/front-end-work/front-end-days/about-front-end-8.md',
                     ]
                 }, {
                     title: '面试这件事',
@@ -283,6 +286,7 @@ module.exports = {
                         '/front-end-work/interview/interview-2-stage.md',
                         '/front-end-work/interview/interview-3-basic-skills.md',
                         '/front-end-work/interview/interview-4-project-skills.md',
+                        '/front-end-work/interview/interview-5-other-skills.md',
                     ]
                 }
             ],
