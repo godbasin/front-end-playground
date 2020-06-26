@@ -25,7 +25,7 @@ module.exports = {
         editLinkText: '帮阿猪改善此页面！',
         nav: [
             { text: '概述', link: '/' },
-            { text: '前端基础', link: '/front-end-basic/' },
+            { text: '前端领域', link: '/front-end-basic/' },
             { text: 'Vue学习', link: '/vue/' },
             { text: '小程序学习', link: '/wxapp/' },
             { text: '百家齐放', link: '/front-end-others/' },
@@ -54,7 +54,7 @@ module.exports = {
                     title: '前端深入理解',
                     collapsable: true,
                     children: [
-                        '/front-end-basic/understanding/build-application.md',
+                        '/front-end-basic/understanding/operation-transform.md',
                         '/front-end-basic/understanding/component-communication-with-data-model.md',
                         '/front-end-basic/understanding/component-with-configuration.md',
                         '/front-end-basic/understanding/component-with-itself.md',
@@ -62,6 +62,14 @@ module.exports = {
                         '/front-end-basic/understanding/template-engine.md',
                         '/front-end-basic/understanding/dialogue-abstraction.md',
                         '/front-end-basic/understanding/data-driven-or-event-driven.md',
+                    ]
+                }, {
+                    title: '前端架构',
+                    collapsable: true,
+                    children: [
+                        '/front-end-basic/deep-learning/module-seperate.md',
+                        '/front-end-basic/deep-learning/trace-stash.md',
+                        '/front-end-basic/deep-learning/build-application.md',
                     ]
                 }
             ],     
