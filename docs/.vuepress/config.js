@@ -70,6 +70,9 @@ module.exports = {
                         '/front-end-basic/deep-learning/module-seperate.md',
                         '/front-end-basic/deep-learning/trace-stash.md',
                         '/front-end-basic/deep-learning/build-application.md',
+                        '/front-end-basic/deep-learning/build-application.md',
+                        '/front-end-basic/deep-learning/reactive-programing.md',
+                        '/front-end-basic/deep-learning/vscode-event.md',
                     ]
                 }
             ],     
