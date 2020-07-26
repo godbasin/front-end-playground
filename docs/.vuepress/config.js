@@ -70,7 +70,6 @@ module.exports = {
                         '/front-end-basic/deep-learning/module-seperate.md',
                         '/front-end-basic/deep-learning/trace-stash.md',
                         '/front-end-basic/deep-learning/build-application.md',
-                        '/front-end-basic/deep-learning/build-application.md',
                         '/front-end-basic/deep-learning/reactive-programing.md',
                         '/front-end-basic/deep-learning/vscode-event.md',
                     ]
@@ -298,6 +297,7 @@ module.exports = {
                         '/front-end-work/interview/interview-3-basic-skills.md',
                         '/front-end-work/interview/interview-4-project-skills.md',
                         '/front-end-work/interview/interview-5-other-skills.md',
+                        '/front-end-work/interview/interview-6-javascript.md',
                     ]
                 }
             ],
