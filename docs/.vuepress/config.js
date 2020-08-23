@@ -73,6 +73,7 @@ module.exports = {
                         '/front-end-basic/deep-learning/reactive-programing.md',
                         '/front-end-basic/deep-learning/vscode-event.md',
                         '/front-end-basic/deep-learning/vscode-ipc.md',
+                        '/front-end-basic/deep-learning/online-doc-network.md',
                     ]
                 }
             ],     
