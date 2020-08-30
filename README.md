@@ -1,6 +1,8 @@
 # 被删的前端游乐场
 [点击这里入场啦](https://godbasin.github.io/front-end-playground/)
 
+如果你访问不了，可以[来这里看](http://www.godbasin.com)哦~
+
 ## 游乐场内容
 欢迎来玩，门票只需要一份学习的热情~
 
