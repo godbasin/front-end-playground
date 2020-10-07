@@ -75,6 +75,7 @@ module.exports = {
                         '/front-end-basic/deep-learning/vscode-ipc.md',
                         '/front-end-basic/deep-learning/online-doc-network.md',
                         '/front-end-basic/deep-learning/front-end-performance-analyze.md',
+                        '/front-end-basic/deep-learning/monitor-and-report.md',
                     ]
                 }
             ],     
