@@ -77,6 +77,7 @@ module.exports = {
                         '/front-end-basic/deep-learning/front-end-performance-analyze.md',
                         '/front-end-basic/deep-learning/monitor-and-report.md',
                         '/front-end-basic/deep-learning/why-spreadsheet-app-excited.md',
+                        '/front-end-basic/deep-learning/task-runner-design.md',
                     ]
                 }
             ],     
