@@ -79,6 +79,12 @@ module.exports = {
                         '/front-end-basic/deep-learning/why-spreadsheet-app-excited.md',
                         '/front-end-basic/deep-learning/task-runner-design.md',
                     ]
+                }, {
+                    title: '前端知识库',
+                    collapsable: true,
+                    children: [
+                        '/front-end-basic/front-end-lib/how-browser-works.md',
+                    ]
                 }
             ],     
             '/vue/': [
@@ -115,7 +121,7 @@ module.exports = {
                     ]
                 }, {
                     title: '深入理解Vue.js与实战',
-                    path: 'https://godbasin.github.io/vue-ebook'
+                    path: 'http://www.godbasin.com/vue-ebook/'
                 }
             ],     
             '/front-end-others/': [
