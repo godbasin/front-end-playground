@@ -301,6 +301,7 @@ module.exports = {
                         '/front-end-work/front-end-days/about-front-end-8.md',
                         '/front-end-work/front-end-days/about-front-end-9.md',
                         '/front-end-work/front-end-days/about-front-end-10.md',
+                        '/front-end-work/front-end-days/about-writing.md',
                     ]
                 }, {
                     title: '面试这件事',
