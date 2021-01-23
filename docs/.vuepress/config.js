@@ -78,6 +78,7 @@ module.exports = {
                         '/front-end-basic/deep-learning/monitor-and-report.md',
                         '/front-end-basic/deep-learning/why-spreadsheet-app-excited.md',
                         '/front-end-basic/deep-learning/task-runner-design.md',
+                        '/front-end-basic/deep-learning/network-design-responsibility-driven-design.md',
                     ]
                 }, {
                     title: '前端知识库',
