@@ -81,12 +81,6 @@ module.exports = {
                         '/front-end-basic/deep-learning/network-design-responsibility-driven-design.md',
                         '/front-end-basic/deep-learning/network-design-dependency-decoupling.md',
                     ]
-                }, {
-                    title: '前端知识库',
-                    collapsable: true,
-                    children: [
-                        '/front-end-basic/front-end-lib/how-browser-works.md',
-                    ]
                 }
             ],     
             '/vue/': [
@@ -128,6 +122,12 @@ module.exports = {
             ],     
             '/front-end-others/': [
                 {
+                    title: 'Angular框架解读',
+                    collapsable: true,
+                    children: [
+                        '/front-end-others/deep-into-angular/angular-design-0-prestart.md',
+                    ]
+                }, {
                     title: '玩转 Angular',
                     collapsable: true,
                     children: [
