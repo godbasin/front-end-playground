@@ -1,0 +1,46 @@
+name: Deploy site files
+
+on:
+  push:
+    branches:
+      - sourcecode # 只在master上push触发部署
+    paths-ignore: # 下列文件的变更不触发部署，可以自行添加
+      - README.md
+      - LICENSE
+  pull_request:
+    branches:
+      - sourcecode # 只在master上push触发部署
+    types: [closed]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        node-version: [10.x]
+
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          repo-token: ${{ secrets.DEPLOY_TOKEN }}
+
+      - name: Use Node.js ${{ matrix.node-version }}
+        uses: actions/setup-node@v1
+        with:
+          node-version: ${{ matrix.node-version }}
+          
+      - name: Install dependencies
+        run: |
+          npm i
+      - name: Build
+        run: |
+          npm run build
+          cp README.md docs/.vuepress/dist/
+          cd docs/.vuepress/dist
+      - name: Deploy
+        uses: JamesIves/github-pages-deploy-action@3.6.2
+        with:
+          GITHUB_TOKEN: ${{ secrets.DEPLOY_TOKEN }}
+          BRANCH: master # The branch the action should deploy to.
+          FOLDER: docs/.vuepress/dist/
+          CLEAN: true
