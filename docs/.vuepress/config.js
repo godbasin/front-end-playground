@@ -129,6 +129,7 @@ module.exports = {
                         '/front-end-others/deep-into-angular/angular-design-metadata.md',
                         '/front-end-others/deep-into-angular/angular-design-dom-define.md',
                         '/front-end-others/deep-into-angular/angular-design-zonejs.md',
+                        '/front-end-others/deep-into-angular/angular-design-zone-ngzone.md',
                     ]
                 }, {
                     title: '玩转 Angular',

@@ -1,8 +1,5 @@
 ---
 title: 3.Zone区域之zone.js
-date: 2021-05-01 10:58:22
-categories: Angular源码
-tags: 功能设计
 ---
 
 作为“为大型前端项目”而设计的前端框架，Angular 其实有许多值得参考和学习的设计，本系列主要用于研究这些设计和功能的实现原理。本文主要围绕 Angular 中的 NgZone 核心能力，这些能力主要基于 zone.js 来实现，因此本文先介绍 zone.js。
