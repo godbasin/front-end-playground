@@ -132,7 +132,8 @@ module.exports = {
                         '/front-end-others/deep-into-angular/angular-design-zone-ngzone.md',
                         '/front-end-others/deep-into-angular/angular-design-module.md',
                         '/front-end-others/deep-into-angular/angular-design-di-1-basic-concepts.md',
-                        '/front-end-others/deep-into-angular/angular-design-di-1-basic-concepts.md',
+                        '/front-end-others/deep-into-angular/angular-design-di-2-hierarchical-di.md',
+                        '/front-end-others/deep-into-angular/angular-design-di-3-bootstrap.md',
                     ]
                 }, {
                     title: '玩转 Angular',
