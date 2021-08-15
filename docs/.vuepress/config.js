@@ -134,6 +134,7 @@ module.exports = {
                         '/front-end-others/deep-into-angular/angular-design-di-1-basic-concepts.md',
                         '/front-end-others/deep-into-angular/angular-design-di-2-hierarchical-di.md',
                         '/front-end-others/deep-into-angular/angular-design-di-3-bootstrap.md',
+                        '/front-end-others/deep-into-angular/angular-design-ivy-0-design.md',
                     ]
                 }, {
                     title: '玩转 Angular',
