@@ -45,6 +45,8 @@
       v-if="data.footer"
     >
       {{ data.footer }}
+      <br />
+      <a href="https://beian.miit.gov.cn/">粤ICP备18118984号</a>
     </div>
   </main>
 </template>

@@ -9,7 +9,7 @@ features:
     details: 学习和理解 Vue 基础，学会使用 Vue 快速编写 Web 应用。
   - title: 小程序学习
     details: 理解小程序框架原理，掌握踩坑必备指南。
-footer: MIT Licensed | Copyright © 2018-present 被删
+footer: MIT Licensed | Copyright © 2021-present 被删
 ---
 
 <div style="text-align: center;">
