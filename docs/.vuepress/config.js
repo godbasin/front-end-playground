@@ -36,34 +36,6 @@ module.exports = {
         sidebar: {
             '/front-end-basic/': [
                 {
-                    title: '前端入门',
-                    collapsable: true,
-                    children: [
-                        '/front-end-basic/front-end/front-end-1.md',
-                        '/front-end-basic/front-end/front-end-2.md',
-                        '/front-end-basic/front-end/front-end-3.md',
-                        '/front-end-basic/front-end/front-end-4.md',
-                        '/front-end-basic/front-end/front-end-5.md',
-                        '/front-end-basic/front-end/front-end-6.md',
-                        '/front-end-basic/front-end/front-end-7.md',
-                        '/front-end-basic/front-end/front-end-8.md',
-                        '/front-end-basic/front-end/front-end-9.md',
-                        '/front-end-basic/front-end/front-end-10.md',
-                    ]
-                }, {
-                    title: '前端深入理解',
-                    collapsable: true,
-                    children: [
-                        '/front-end-basic/understanding/operation-transform.md',
-                        '/front-end-basic/understanding/component-communication-with-data-model.md',
-                        '/front-end-basic/understanding/component-with-configuration.md',
-                        '/front-end-basic/understanding/component-with-itself.md',
-                        '/front-end-basic/understanding/app-component-isolation.md',
-                        '/front-end-basic/understanding/template-engine.md',
-                        '/front-end-basic/understanding/dialogue-abstraction.md',
-                        '/front-end-basic/understanding/data-driven-or-event-driven.md',
-                    ]
-                }, {
                     title: '前端架构',
                     collapsable: true,
                     children: [
@@ -80,6 +52,35 @@ module.exports = {
                         '/front-end-basic/deep-learning/task-runner-design.md',
                         '/front-end-basic/deep-learning/network-design-responsibility-driven-design.md',
                         '/front-end-basic/deep-learning/network-design-dependency-decoupling.md',
+                    ]
+                }, {
+                    title: '前端深入理解',
+                    collapsable: true,
+                    children: [
+                        '/front-end-basic/understanding/operation-transform.md',
+                        '/front-end-basic/understanding/component-communication-with-data-model.md',
+                        '/front-end-basic/understanding/component-with-configuration.md',
+                        '/front-end-basic/understanding/component-with-itself.md',
+                        '/front-end-basic/understanding/app-component-isolation.md',
+                        '/front-end-basic/understanding/template-engine.md',
+                        '/front-end-basic/understanding/dialogue-abstraction.md',
+                        '/front-end-basic/understanding/data-driven-or-event-driven.md',
+                        '/front-end-basic/understanding/web-browser-render.md',
+                    ]
+                }, {
+                    title: '前端入门',
+                    collapsable: true,
+                    children: [
+                        '/front-end-basic/front-end/front-end-1.md',
+                        '/front-end-basic/front-end/front-end-2.md',
+                        '/front-end-basic/front-end/front-end-3.md',
+                        '/front-end-basic/front-end/front-end-4.md',
+                        '/front-end-basic/front-end/front-end-5.md',
+                        '/front-end-basic/front-end/front-end-6.md',
+                        '/front-end-basic/front-end/front-end-7.md',
+                        '/front-end-basic/front-end/front-end-8.md',
+                        '/front-end-basic/front-end/front-end-9.md',
+                        '/front-end-basic/front-end/front-end-10.md',
                     ]
                 }
             ],     
