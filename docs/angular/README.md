@@ -4,4 +4,4 @@
 
 - [官方文档](https://angular.cn/)
 
-[Angular 源码研究 ->][./deep-into-angular/angular-design-0-prestart.md]
+[Angular 源码研究 ->](./deep-into-angular/angular-design-0-prestart.md)
