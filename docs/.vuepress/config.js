@@ -28,6 +28,7 @@ module.exports = {
             { text: '前端领域', link: '/front-end-basic/' },
             { text: 'Vue学习', link: '/vue/' },
             { text: '小程序学习', link: '/wxapp/' },
+            { text: 'Angular学习', link: '/angular/' },
             { text: '百家齐放', link: '/front-end-others/' },
             { text: '前端的进击', link: '/front-end-addon/' },
             { text: '前端与工作', link: '/front-end-work/' },
@@ -121,44 +122,47 @@ module.exports = {
                     path: 'http://www.godbasin.com/vue-ebook/'
                 }
             ],     
-            '/front-end-others/': [
+            '/angular/': [
                 {
                     title: 'Angular框架解读',
                     collapsable: true,
                     children: [
-                        '/front-end-others/deep-into-angular/angular-design-0-prestart.md',
-                        '/front-end-others/deep-into-angular/angular-design-metadata.md',
-                        '/front-end-others/deep-into-angular/angular-design-dom-define.md',
-                        '/front-end-others/deep-into-angular/angular-design-zonejs.md',
-                        '/front-end-others/deep-into-angular/angular-design-zone-ngzone.md',
-                        '/front-end-others/deep-into-angular/angular-design-module.md',
-                        '/front-end-others/deep-into-angular/angular-design-di-1-basic-concepts.md',
-                        '/front-end-others/deep-into-angular/angular-design-di-2-hierarchical-di.md',
-                        '/front-end-others/deep-into-angular/angular-design-di-3-bootstrap.md',
-                        '/front-end-others/deep-into-angular/angular-design-ivy-0-design.md',
-                        '/front-end-others/deep-into-angular/angular-design-ivy-1-view-data-and-node-injector.md',
+                        '/angular/deep-into-angular/angular-design-0-prestart.md',
+                        '/angular/deep-into-angular/angular-design-metadata.md',
+                        '/angular/deep-into-angular/angular-design-dom-define.md',
+                        '/angular/deep-into-angular/angular-design-zonejs.md',
+                        '/angular/deep-into-angular/angular-design-zone-ngzone.md',
+                        '/angular/deep-into-angular/angular-design-module.md',
+                        '/angular/deep-into-angular/angular-design-di-1-basic-concepts.md',
+                        '/angular/deep-into-angular/angular-design-di-2-hierarchical-di.md',
+                        '/angular/deep-into-angular/angular-design-di-3-bootstrap.md',
+                        '/angular/deep-into-angular/angular-design-ivy-0-design.md',
+                        '/angular/deep-into-angular/angular-design-ivy-1-view-data-and-node-injector.md',
+                        '/angular/deep-into-angular/angular-design-ivy-2-cli-compiler.md',
                     ]
                 }, {
                     title: '玩转 Angular',
                     collapsable: true,
                     children: [
-                        '/front-end-others/angular-free/0-about-angular-from-1-to-4.md',
-                        '/front-end-others/angular-free/0-di-in-angular.md',
-                        '/front-end-others/angular-free/1-init-angular-app-with-webpack.md',
-                        '/front-end-others/angular-free/2-inprove-app-configuration.md',
-                        '/front-end-others/angular-free/3-init-routes-and-assets.md',
-                        '/front-end-others/angular-free/4-create-sidebar.md',
-                        '/front-end-others/angular-free/5-custom-input-component.md',
-                        '/front-end-others/angular-free/6-two-form-building.md',
-                        '/front-end-others/angular-free/7-dynamic-form.md',
-                        '/front-end-others/angular-free/8-radio-and-checkbox.md',
-                        '/front-end-others/angular-free/9-upload-iamge.md',
-                        '/front-end-others/angular-free/10-add-conditions.md',
-                        '/front-end-others/angular-free/11-option-dialog.md',
-                        '/front-end-others/angular-free/12-config-and-create-form.md',
-                        '/front-end-others/angular-free/13-dynamic-list.md',
+                        '/angular/angular-free/0-about-angular-from-1-to-4.md',
+                        '/angular/angular-free/0-di-in-angular.md',
+                        '/angular/angular-free/1-init-angular-app-with-webpack.md',
+                        '/angular/angular-free/2-inprove-app-configuration.md',
+                        '/angular/angular-free/3-init-routes-and-assets.md',
+                        '/angular/angular-free/4-create-sidebar.md',
+                        '/angular/angular-free/5-custom-input-component.md',
+                        '/angular/angular-free/6-two-form-building.md',
+                        '/angular/angular-free/7-dynamic-form.md',
+                        '/angular/angular-free/8-radio-and-checkbox.md',
+                        '/angular/angular-free/9-upload-iamge.md',
+                        '/angular/angular-free/10-add-conditions.md',
+                        '/angular/angular-free/11-option-dialog.md',
+                        '/angular/angular-free/12-config-and-create-form.md',
+                        '/angular/angular-free/13-dynamic-list.md',
                     ]
-                }, {
+                }
+            ],
+            '/front-end-others/': [{
                     title: '试试 Cycle.js',
                     collapsable: true,
                     children: [
