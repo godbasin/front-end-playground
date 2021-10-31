@@ -5,12 +5,12 @@
 
 ## 最近更新
 
+[《Angular框架解读--Ivy编译器之CLI编译器》](/angular/deep-into-angular/angular-design-ivy-2-cli-compiler.md)   
 - [《浏览器是如何进行页面渲染的》](https://godbasin.github.io/front-end-playground/front-end-basic/understanding/web-browser-render.md)   
 - [《前端这几年--11.关于一年一换的魔咒》](https://godbasin.github.io/front-end-playground/front-end-work/front-end-days/about-front-end-11.html)   
-- [《Angular框架解读--Ivy编译器的视图数据和依赖解析》](https://godbasin.github.io/front-end-playground/front-end-others/deep-into-angular/angular-design-ivy-1-view-data-and-node-injector.html)   
-- [《Angular框架解读--Ivy编译器整体设计》](https://godbasin.github.io/front-end-playground/front-end-others/deep-into-angular/angular-design-ivy-0-design.html)   
-- [《Angular框架解读--依赖注入的引导过程》](https://godbasin.github.io/front-end-playground/front-end-others/deep-into-angular/angular-design-di-3-bootstrap.html)   
-- [《Angular框架解读--多级依赖注入设计》](https://godbasin.github.io/front-end-playground/front-end-others/deep-into-angular/angular-design-di-2-hierarchical-di.html)   
+- [《Angular框架解读--Ivy编译器的视图数据和依赖解析》](https://godbasin.github.io/front-end-playground/angular/deep-into-angular/angular-design-ivy-1-view-data-and-node-injector.html)   
+- [《Angular框架解读--Ivy编译器整体设计》](https://godbasin.github.io/front-end-playground/angular/deep-into-angular/angular-design-ivy-0-design.html)   
+- [《Angular框架解读--依赖注入的引导过程》](https://godbasin.github.io/front-end-playground/angular/deep-into-angular/angular-design-di-3-bootstrap.html)   
 
 ## 游乐场内容
 欢迎来玩，门票只需要一份学习的热情~
