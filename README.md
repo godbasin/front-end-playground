@@ -5,8 +5,8 @@
 
 ## 最近更新
 
-[《Angular框架解读--Ivy编译器之CLI编译器》](/angular/deep-into-angular/angular-design-ivy-2-cli-compiler.md)   
-- [《浏览器是如何进行页面渲染的》](https://godbasin.github.io/front-end-playground/front-end-basic/understanding/web-browser-render.md)   
+- [《Angular框架解读--Ivy编译器之CLI编译器》](https://godbasin.github.io/front-end-playground/angular/deep-into-angular/angular-design-ivy-2-cli-compiler.html)   
+- [《浏览器是如何进行页面渲染的》](https://godbasin.github.io/front-end-playground/front-end-basic/understanding/web-browser-render.html)   
 - [《前端这几年--11.关于一年一换的魔咒》](https://godbasin.github.io/front-end-playground/front-end-work/front-end-days/about-front-end-11.html)   
 - [《Angular框架解读--Ivy编译器的视图数据和依赖解析》](https://godbasin.github.io/front-end-playground/angular/deep-into-angular/angular-design-ivy-1-view-data-and-node-injector.html)   
 - [《Angular框架解读--Ivy编译器整体设计》](https://godbasin.github.io/front-end-playground/angular/deep-into-angular/angular-design-ivy-0-design.html)   
