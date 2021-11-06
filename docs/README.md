@@ -16,6 +16,7 @@ footer: MIT Licensed | Copyright © 2021-present 被删
 
 ## 最近更新
 
+[《Angular框架解读--Ivy编译器之心智模型》](/angular/deep-into-angular/angular-design-ivy-3-mental-model.md)   
 [《Angular框架解读--Ivy编译器之CLI编译器》](/angular/deep-into-angular/angular-design-ivy-2-cli-compiler.md)   
 [《浏览器是如何进行页面渲染的》](/front-end-basic/understanding/web-browser-render.md)   
 [《前端这几年--11.关于一年一换的魔咒》](/front-end-work/front-end-days/about-front-end-11.md)   

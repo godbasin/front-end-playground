@@ -139,6 +139,7 @@ module.exports = {
                         '/angular/deep-into-angular/angular-design-ivy-0-design.md',
                         '/angular/deep-into-angular/angular-design-ivy-1-view-data-and-node-injector.md',
                         '/angular/deep-into-angular/angular-design-ivy-2-cli-compiler.md',
+                        '/angular/deep-into-angular/angular-design-ivy-3-mental-model.md',
                     ]
                 }, {
                     title: '玩转 Angular',
