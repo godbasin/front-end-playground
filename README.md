@@ -5,6 +5,7 @@
 
 ## 最近更新
 
+- [《前端这几年--12.技术开发的门槛高吗》](https://godbasin.github.io/front-end-playground/front-end-work/front-end-days/about-front-end-12.html)   
 - [《Angular框架解读--Ivy编译器之心智模型》](https://godbasin.github.io/front-end-playground/angular/deep-into-angular/angular-design-ivy-3-mental-model.html)   
 - [《Angular框架解读--Ivy编译器之CLI编译器》](https://godbasin.github.io/front-end-playground/angular/deep-into-angular/angular-design-ivy-2-cli-compiler.html)   
 - [《浏览器是如何进行页面渲染的》](https://godbasin.github.io/front-end-playground/front-end-basic/understanding/web-browser-render.html)   
