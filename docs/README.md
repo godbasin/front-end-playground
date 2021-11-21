@@ -16,6 +16,7 @@ footer: MIT Licensed | Copyright © 2021-present 被删
 
 ## 最近更新
 
+[《Angular框架解读--Ivy编译器之AOT/JIT》](/angular/deep-into-angular/angular-design-ivy-4-aot-jit.md)   
 [《前端这几年--12.技术开发的门槛高吗》](/front-end-work/front-end-days/about-front-end-12.md)   
 [《Angular框架解读--Ivy编译器之心智模型》](/angular/deep-into-angular/angular-design-ivy-3-mental-model.md)   
 [《Angular框架解读--Ivy编译器之CLI编译器》](/angular/deep-into-angular/angular-design-ivy-2-cli-compiler.md)   
