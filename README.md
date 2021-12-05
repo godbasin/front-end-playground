@@ -5,6 +5,7 @@
 
 ## 最近更新
 
+- [《Angular框架解读--Ivy编译器之增量DOM》](https://godbasin.github.io/front-end-playground/angular/deep-into-angular/angular-design-ivy-5-incremental-dom.html)   
 - [《前端这几年--13.关于技术开发的职业发展》](https://godbasin.github.io/front-end-playground/front-end-work/front-end-days/about-front-end-13.md)   
 - [《Angular框架解读--Ivy编译器之AOT/JIT》](https://godbasin.github.io/front-end-playground/angular/deep-into-angular/angular-design-ivy-4-aot-jit.html)   
 - [《前端这几年--12.技术开发的门槛高吗》](https://godbasin.github.io/front-end-playground/front-end-work/front-end-days/about-front-end-12.html)   
