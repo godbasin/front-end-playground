@@ -16,6 +16,7 @@ footer: MIT Licensed | Copyright © 2021-present 被删
 
 ## 最近更新
 
+[《2021 年度总结--冲啊打工人》](./front-end-work/front-end-days/my-2021.md)   
 [《前端这几年--14.技术深度是伪命题吗》](./front-end-work/front-end-days/about-front-end-14.md)   
 [《Angular框架解读--Ivy编译器之增量DOM》](./angular/deep-into-angular/angular-design-ivy-5-incremental-dom.md)   
 [《前端这几年--13.关于技术开发的职业发展》](./front-end-work/front-end-days/about-front-end-13.md)   
