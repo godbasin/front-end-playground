@@ -5,6 +5,7 @@
 
 ## 最近更新
 
+- [《2021 年度总结--冲啊打工人》](https://godbasin.github.io/front-end-playground/front-end-work/front-end-days/my-2021.html)   
 - [《前端这几年--14.技术深度是伪命题吗》](https://godbasin.github.io/front-end-playground/front-end-work/front-end-days/about-front-end-14.html)   
 - [《Angular框架解读--Ivy编译器之增量DOM》](https://godbasin.github.io/front-end-playground/angular/deep-into-angular/angular-design-ivy-5-incremental-dom.html)   
 - [《前端这几年--13.关于技术开发的职业发展》](https://godbasin.github.io/front-end-playground/front-end-work/front-end-days/about-front-end-13.html)   
@@ -52,6 +53,8 @@
 还想要搭一些和猫和前端相关的小游戏或是动画交互可以玩，最好当然是可以一边撸猫一边学前端啦。
 
 另外可能后面如果有空，还会录制一些视频吧~因为文章能描述和表达的东西比较局限，代码调试、项目设计、写代码的思考过程，这些其实是很美妙的事情，希望也能把那份快乐给到你们。
+
+> 最新消息：视频已经有了哦~欢迎来我的 B 站（[被删](https://space.bilibili.com/42233366)）玩哦~
 
 ## 赞赏码
 
