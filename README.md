@@ -5,6 +5,7 @@
 
 ## 最近更新
 
+- [《我所理解的前端工程化》](https://godbasin.github.io/front-end-playground/front-end-basic/deep-learning/front-end-engineering.html)   
 - [《Angular框架解读--Ivy编译器之增量DOM》](https://godbasin.github.io/front-end-playground/angular/deep-into-angular/angular-design-ivy-6-detect-change.html)   
 - [《2021 年度总结--冲啊打工人》](https://godbasin.github.io/front-end-playground/front-end-work/front-end-days/my-2021.html)   
 - [《前端这几年--14.技术深度是伪命题吗》](https://godbasin.github.io/front-end-playground/front-end-work/front-end-days/about-front-end-14.html)   
