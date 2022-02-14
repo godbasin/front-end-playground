@@ -19,7 +19,7 @@
 - [淘宝前端团队](http://taobaofed.org)
 - [百度 Web 前端研发部](http://fex.baidu.com)
 - [京东凹凸实验室](https://aotu.io)
-- [360 奇舞团](https://75team.com)
+- [360 奇舞团](https://75.team)
 - [七牛团队技术博客](http://blog.qiniu.com)
 - [有赞技术团队](http://tech.youzan.com)
 
