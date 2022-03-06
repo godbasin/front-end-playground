@@ -16,7 +16,7 @@ footer: MIT Licensed | Copyright © 2021-present 被删
 
 ## 最近更新
 
-
+[《前端性能优化方案归纳》](./front-end-basic/deep-learning/front-end-performance-optimization.md)   
 [《前端这几年--答辩晋级这件事》](./front-end-work/front-end-days/about-updating.md)   
 [《我所理解的前端工程化》](./front-end-basic/deep-learning/front-end-engineering.md)   
 [《Angular框架解读--Ivy编译器之变更检测》](./angular/angular-design-ivy-6-detect-change.md)   
