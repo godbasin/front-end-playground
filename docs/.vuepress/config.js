@@ -37,6 +37,14 @@ module.exports = {
         sidebar: {
             '/front-end-basic/': [
                 {
+                    title: '前端性能优化',
+                    collapsable: true,
+                    children: [
+                        '/front-end-basic/performance/front-end-performance-optimization.md',
+                        '/front-end-basic/performance/front-end-performance-analyze.md',
+                    ]
+                }, 
+                {
                     title: '前端架构',
                     collapsable: true,
                     children: [
@@ -48,8 +56,6 @@ module.exports = {
                         '/front-end-basic/deep-learning/vscode-event.md',
                         '/front-end-basic/deep-learning/vscode-ipc.md',
                         '/front-end-basic/deep-learning/online-doc-network.md',
-                        '/front-end-basic/deep-learning/front-end-performance-optimization.md',
-                        '/front-end-basic/deep-learning/front-end-performance-analyze.md',
                         '/front-end-basic/deep-learning/monitor-and-report.md',
                         '/front-end-basic/deep-learning/why-spreadsheet-app-excited.md',
                         '/front-end-basic/deep-learning/task-runner-design.md',
@@ -89,6 +95,9 @@ module.exports = {
             ],     
             '/vue/': [
                 {
+                    title: '深入理解Vue.js与实战',
+                    path: 'http://www.godbasin.com/vue-ebook/'
+                }, {
                     title: '9102 全员学 Vue',
                     collapsable: true,
                     children: [
@@ -119,9 +128,6 @@ module.exports = {
                         '/vue/vue-multi-page/7-source-map-and-uglifyjs.md',
                         '/vue/vue-multi-page/8-certain-loaders.md',
                     ]
-                }, {
-                    title: '深入理解Vue.js与实战',
-                    path: 'http://www.godbasin.com/vue-ebook/'
                 }
             ],     
             '/angular/': [

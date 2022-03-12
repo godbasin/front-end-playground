@@ -16,7 +16,7 @@ footer: MIT Licensed | Copyright © 2021-present 被删
 
 ## 最近更新
 
-[《前端性能优化方案归纳》](./front-end-basic/deep-learning/front-end-performance-optimization.md)   
+[《前端性能优化--归纳篇》](./front-end-basic/performance/front-end-performance-optimization.md)   
 [《前端这几年--答辩晋级这件事》](./front-end-work/front-end-days/about-updating.md)   
 [《我所理解的前端工程化》](./front-end-basic/deep-learning/front-end-engineering.md)   
 [《Angular框架解读--Ivy编译器之变更检测》](./angular/angular-design-ivy-6-detect-change.md)   
@@ -27,10 +27,6 @@ footer: MIT Licensed | Copyright © 2021-present 被删
 [《Angular框架解读--Ivy编译器之AOT/JIT》](./angular/deep-into-angular/angular-design-ivy-4-aot-jit.md)   
 [《前端这几年--12.技术开发的门槛高吗》](./front-end-work/front-end-days/about-front-end-12.md)   
 [《Angular框架解读--Ivy编译器之心智模型》](./angular/deep-into-angular/angular-design-ivy-3-mental-model.md)   
-[《Angular框架解读--Ivy编译器之CLI编译器》](./angular/deep-into-angular/angular-design-ivy-2-cli-compiler.md)   
-[《浏览器是如何进行页面渲染的》](./front-end-basic/understanding/web-browser-render.md)   
-[《前端这几年--11.关于一年一换的魔咒》](./front-end-work/front-end-days/about-front-end-11.md)   
-[《Angular框架解读--Ivy编译器的视图数据和依赖解析》](./angular/deep-into-angular/angular-design-ivy-1-view-data-and-node-injector.md)   
 
 ## 赞赏码
 
@@ -44,8 +40,12 @@ footer: MIT Licensed | Copyright © 2021-present 被删
 <br />
 <br />
 
-## 参与贡献
-如果你有好的内容调整或者新增，欢迎给我提 Issues 或 Pull Requests。  
-虽然我要求很高，不过我人很好，所以不要紧张。
+## 关于我
+
+闲暇时间写了三本书，感兴趣也可以看看哦：
+
+- [电子书——《前端的进击》](https://www.ituring.com.cn/book/2942)
+- [开源书籍——《深入理解Vue.js与实战》](http://www.godbasin.com/vue-ebook/)
+- 《小程序开发原理与实战》
 
 </div>

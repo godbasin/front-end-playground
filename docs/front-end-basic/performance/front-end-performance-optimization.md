@@ -1,5 +1,5 @@
 ---
-title: 前端性能优化方案归纳
+title: 前端性能优化--归纳篇
 ---
 
 对于前端开发来说，性能优化老生常谈了。不管是日常工作中，还是涉及到晋级答辩，性能都是频繁被我们提及的一个话题。
@@ -122,6 +122,6 @@ title: 前端性能优化方案归纳
 
 ### 结束语
 
-实际上，除了遇到问题的时候进行优化，更优的方案是在工作流中搭建一个监控性能指标的步骤，每次变更发布前都跑一遍，发现性能下降之后进行及时的告警，推动开发者解决。对于这块，之前我也有简单描述过，可以参考[《补齐 Web 前端性能分析的工具盲点》](https://godbasin.github.io/front-end-playground/front-end-basic/deep-learning/front-end-performance-analyze.html)一文。
+实际上，除了遇到问题的时候进行优化，更优的方案是在工作流中搭建一个监控性能指标的步骤，每次变更发布前都跑一遍，发现性能下降之后进行及时的告警，推动开发者解决。对于这块，之前我也有简单描述过，可以参考[《补齐 Web 前端性能分析的工具盲点》](https://godbasin.github.io/front-end-playground/front-end-basic/performance/front-end-performance-analyze.html)一文。
 
 对于性能优化，其实本文只整理和归纳了一些常见的思路，至于实际上在项目中要怎么处理和使用，等有空的时候我再来跟大家讲一下~~

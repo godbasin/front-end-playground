@@ -4,8 +4,8 @@
 如果你访问不了，可以[来这里看](http://www.godbasin.com)哦~
 
 ## 最近更新
-
-- [《前端性能优化方案归纳》](https://godbasin.github.io/front-end-playground/front-end-basic/deep-learning/front-end-performance-optimization.html)    
+ 
+- [《前端性能优化--归纳篇》](https://godbasin.github.io/front-end-playground/front-end-basic/performance/front-end-performance-optimization.html)    
 - [《前端这几年--答辩晋级这件事》](https://godbasin.github.io/front-end-playground/front-end-work/front-end-days/about-updating.html)    
 - [《我所理解的前端工程化》](https://godbasin.github.io/front-end-playground/front-end-basic/deep-learning/front-end-engineering.html)   
 - [《Angular框架解读--Ivy编译器之增量DOM》](https://godbasin.github.io/front-end-playground/angular/deep-into-angular/angular-design-ivy-6-detect-change.html)   
@@ -16,12 +16,6 @@
 - [《Angular框架解读--Ivy编译器之AOT/JIT》](https://godbasin.github.io/front-end-playground/angular/deep-into-angular/angular-design-ivy-4-aot-jit.html)   
 - [《前端这几年--12.技术开发的门槛高吗》](https://godbasin.github.io/front-end-playground/front-end-work/front-end-days/about-front-end-12.html)   
 - [《Angular框架解读--Ivy编译器之心智模型》](https://godbasin.github.io/front-end-playground/angular/deep-into-angular/angular-design-ivy-3-mental-model.html)   
-- [《Angular框架解读--Ivy编译器之CLI编译器》](https://godbasin.github.io/front-end-playground/angular/deep-into-angular/angular-design-ivy-2-cli-compiler.html)   
-- [《浏览器是如何进行页面渲染的》](https://godbasin.github.io/front-end-playground/front-end-basic/understanding/web-browser-render.html)   
-- [《前端这几年--11.关于一年一换的魔咒》](https://godbasin.github.io/front-end-playground/front-end-work/front-end-days/about-front-end-11.html)   
-- [《Angular框架解读--Ivy编译器的视图数据和依赖解析》](https://godbasin.github.io/front-end-playground/angular/deep-into-angular/angular-design-ivy-1-view-data-and-node-injector.html)   
-- [《Angular框架解读--Ivy编译器整体设计》](https://godbasin.github.io/front-end-playground/angular/deep-into-angular/angular-design-ivy-0-design.html)   
-- [《Angular框架解读--依赖注入的引导过程》](https://godbasin.github.io/front-end-playground/angular/deep-into-angular/angular-design-di-3-bootstrap.html)   
 
 ## 游乐场内容
 欢迎来玩，门票只需要一份学习的热情~
