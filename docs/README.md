@@ -16,6 +16,7 @@ footer: MIT Licensed | Copyright © 2021-present 被删
 
 ## 最近更新
 
+[《前端性能优化——加载流程篇》](./front-end-basic/performance/front-end-performance-startup.md)   
 [《前端性能优化--归纳篇》](./front-end-basic/performance/front-end-performance-optimization.md)   
 [《前端这几年--答辩晋级这件事》](./front-end-work/front-end-days/about-updating.md)   
 [《我所理解的前端工程化》](./front-end-basic/deep-learning/front-end-engineering.md)   
