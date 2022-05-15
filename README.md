@@ -5,7 +5,8 @@
 
 ## 最近更新
  
-- [《前端性能优化——加载流程篇》](https://godbasin.github.io/front-end-playground/front-end-basic/performance/front-end-performance-startup.html)    
+- [《前端性能优化--渲染篇》](https://godbasin.github.io/front-end-playground/front-end-basic/performance/front-end-performance-render.html)    
+- [《前端性能优化--加载流程篇》](https://godbasin.github.io/front-end-playground/front-end-basic/performance/front-end-performance-startup.html)    
 - [《前端性能优化--归纳篇》](https://godbasin.github.io/front-end-playground/front-end-basic/performance/front-end-performance-optimization.html)    
 - [《前端这几年--答辩晋级这件事》](https://godbasin.github.io/front-end-playground/front-end-work/front-end-days/about-updating.html)    
 - [《我所理解的前端工程化》](https://godbasin.github.io/front-end-playground/front-end-basic/deep-learning/front-end-engineering.html)   
