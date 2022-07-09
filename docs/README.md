@@ -16,6 +16,7 @@ footer: MIT Licensed | Copyright © 2021-present 被删
 
 ## 最近更新
 
+[《前端性能优化--Canvas篇》](./front-end-basic/performance/front-end-performance-canvas.md)   
 [《前端性能优化--卡顿篇》](./front-end-basic/performance/front-end-performance-no-responding.md)   
 [《前端性能优化--渲染篇》](./front-end-basic/performance/front-end-performance-render.md)   
 [《前端性能优化--加载流程篇》](./front-end-basic/performance/front-end-performance-startup.md)   
