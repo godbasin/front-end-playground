@@ -339,6 +339,7 @@ module.exports = {
                         '/front-end-work/front-end-days/about-front-end-12.md',
                         '/front-end-work/front-end-days/about-front-end-13.md',
                         '/front-end-work/front-end-days/about-front-end-14.md',
+                        '/front-end-work/front-end-days/about-front-end-15.md',
                         '/front-end-work/front-end-days/about-writing.md',
                         '/front-end-work/front-end-days/about-updating.md',
                         '/front-end-work/front-end-days/a-book-with-one-story.md',
