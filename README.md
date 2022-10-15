@@ -5,6 +5,7 @@
 
 ## 最近更新
  
+- [《前端性能优化--SSR篇》](https://godbasin.github.io/front-end-playground/front-end-basic/performance/front-end-performance-ssr.html)    
 - [《前端这几年--15.关于互联网寒冬》](https://godbasin.github.io/front-end-playground/front-end-work/front-end-days/about-front-end-15.html)   
 - [《前端性能优化--容器篇》](https://godbasin.github.io/front-end-playground/front-end-basic/performance/front-end-performance-container.html)    
 - [《前端性能优化--Canvas篇》](https://godbasin.github.io/front-end-playground/front-end-basic/performance/front-end-performance-canvas.html)    
