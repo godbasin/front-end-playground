@@ -47,6 +47,7 @@ module.exports = {
                         '/front-end-basic/performance/front-end-performance-no-responding.md',
                         '/front-end-basic/performance/front-end-performance-canvas.md',
                         '/front-end-basic/performance/front-end-performance-container.md',
+                        '/front-end-basic/performance/front-end-performance-ssr.md',
                     ]
                 }, 
                 {
