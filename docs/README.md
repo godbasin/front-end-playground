@@ -16,6 +16,7 @@ footer: MIT Licensed | Copyright © 2021-present 被删
 
 ## 最近更新
 
+[《前端性能优化--项目管理篇》](./front-end-basic/performance/front-end-performance-optimization.md)   
 [《前端性能优化--SSR篇》](./front-end-basic/performance/front-end-performance-ssr.md)   
 [《前端这几年--15.关于互联网寒冬》](./front-end-work/front-end-days/about-front-end-15.md)   
 [《前端性能优化--容器篇》](./front-end-basic/performance/front-end-performance-container.md)   
@@ -31,9 +32,6 @@ footer: MIT Licensed | Copyright © 2021-present 被删
 [《前端这几年--14.技术深度是伪命题吗》](./front-end-work/front-end-days/about-front-end-14.md)   
 [《Angular框架解读--Ivy编译器之增量DOM》](./angular/deep-into-angular/angular-design-ivy-5-incremental-dom.md)   
 [《前端这几年--13.关于技术开发的职业发展》](./front-end-work/front-end-days/about-front-end-13.md)   
-[《Angular框架解读--Ivy编译器之AOT/JIT》](./angular/deep-into-angular/angular-design-ivy-4-aot-jit.md)   
-[《前端这几年--12.技术开发的门槛高吗》](./front-end-work/front-end-days/about-front-end-12.md)   
-[《Angular框架解读--Ivy编译器之心智模型》](./angular/deep-into-angular/angular-design-ivy-3-mental-model.md)   
 
 ## 赞赏码
 
