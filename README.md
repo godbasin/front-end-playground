@@ -5,6 +5,7 @@
 
 ## 最近更新
  
+- [《前端性能优化--项目管理篇》](https://godbasin.github.io/front-end-playground/front-end-basic/performance/front-end-performance-optimization.html)    
 - [《前端性能优化--SSR篇》](https://godbasin.github.io/front-end-playground/front-end-basic/performance/front-end-performance-ssr.html)    
 - [《前端这几年--15.关于互联网寒冬》](https://godbasin.github.io/front-end-playground/front-end-work/front-end-days/about-front-end-15.html)   
 - [《前端性能优化--容器篇》](https://godbasin.github.io/front-end-playground/front-end-basic/performance/front-end-performance-container.html)    
@@ -20,9 +21,6 @@
 - [《前端这几年--14.技术深度是伪命题吗》](https://godbasin.github.io/front-end-playground/front-end-work/front-end-days/about-front-end-14.html)   
 - [《Angular框架解读--Ivy编译器之增量DOM》](https://godbasin.github.io/front-end-playground/angular/deep-into-angular/angular-design-ivy-5-incremental-dom.html)   
 - [《前端这几年--13.关于技术开发的职业发展》](https://godbasin.github.io/front-end-playground/front-end-work/front-end-days/about-front-end-13.html)   
-- [《Angular框架解读--Ivy编译器之AOT/JIT》](https://godbasin.github.io/front-end-playground/angular/deep-into-angular/angular-design-ivy-4-aot-jit.html)   
-- [《前端这几年--12.技术开发的门槛高吗》](https://godbasin.github.io/front-end-playground/front-end-work/front-end-days/about-front-end-12.html)   
-- [《Angular框架解读--Ivy编译器之心智模型》](https://godbasin.github.io/front-end-playground/angular/deep-into-angular/angular-design-ivy-3-mental-model.html)   
 
 ## 游乐场内容
 欢迎来玩，门票只需要一份学习的热情~
