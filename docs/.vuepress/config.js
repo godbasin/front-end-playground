@@ -37,6 +37,13 @@ module.exports = {
         sidebar: {
             '/front-end-basic/': [
                 {
+                    title: '前端技能',
+                    collapsable: true,
+                    children: [
+                        '/front-end-basic/skill/research-and-design-process.md',
+                    ]
+                }, 
+                {
                     title: '前端性能优化',
                     collapsable: true,
                     children: [
