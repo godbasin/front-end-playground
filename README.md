@@ -4,7 +4,8 @@
 如果你访问不了，可以[来这里看](http://www.godbasin.com)哦~
 
 ## 最近更新
- 
+
+- [《如何设计与管理一个前端项目》](https://godbasin.github.io/front-end-playground/front-end-basic/skill/design-and-manage-front-end-project.html)    
 - [《技术方案的调研和设计过程》](https://godbasin.github.io/front-end-playground/front-end-basic/skill/research-and-design-process.html)    
 - [《前端性能优化--项目管理篇》](https://godbasin.github.io/front-end-playground/front-end-basic/performance/front-end-performance-optimization.html)    
 - [《前端性能优化--SSR篇》](https://godbasin.github.io/front-end-playground/front-end-basic/performance/front-end-performance-ssr.html)    

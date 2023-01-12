@@ -16,6 +16,7 @@ footer: MIT Licensed | Copyright © 2021-present 被删
 
 ## 最近更新
 
+[《如何设计与管理一个前端项目》](./front-end-basic/skill/design-and-manage-front-end-project.md)   
 [《技术方案的调研和设计过程》](./front-end-basic/skill/research-and-design-process.md)   
 [《前端性能优化--项目管理篇》](./front-end-basic/performance/front-end-performance-optimization.md)   
 [《前端性能优化--SSR篇》](./front-end-basic/performance/front-end-performance-ssr.md)   
