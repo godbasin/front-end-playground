@@ -42,6 +42,7 @@ module.exports = {
                     children: [
                         '/front-end-basic/skill/research-and-design-process.md',
                         '/front-end-basic/skill/design-and-manage-front-end-project.md',
+                        '/front-end-basic/skill/why-project-reviews-are-important.md',
                     ]
                 }, 
                 {

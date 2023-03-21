@@ -16,6 +16,7 @@ footer: MIT Licensed | Copyright © 2021-present 被删
 
 ## 最近更新
 
+[《为什么项目复盘很重要》](./front-end-basic/skill/why-project-reviews-are-important.md)   
 [《如何设计与管理一个前端项目》](./front-end-basic/skill/design-and-manage-front-end-project.md)   
 [《技术方案的调研和设计过程》](./front-end-basic/skill/research-and-design-process.md)   
 [《前端性能优化--项目管理篇》](./front-end-basic/performance/front-end-performance-optimization.md)   
@@ -53,6 +54,6 @@ footer: MIT Licensed | Copyright © 2021-present 被删
 
 - [电子书——《前端的进击》](https://www.ituring.com.cn/book/2942)
 - [开源书籍——《深入理解Vue.js与实战》](http://www.godbasin.com/vue-ebook/)
-- 《小程序开发原理与实战》
+- [《小程序开发原理与实战》](https://www.ituring.com.cn/book/2806)
 
 </div>
