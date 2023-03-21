@@ -5,6 +5,7 @@
 
 ## 最近更新
 
+- [《为什么项目复盘很重要》](https://godbasin.github.io/front-end-playground/front-end-basic/skill/why-project-reviews-are-important.html)    
 - [《如何设计与管理一个前端项目》](https://godbasin.github.io/front-end-playground/front-end-basic/skill/design-and-manage-front-end-project.html)    
 - [《技术方案的调研和设计过程》](https://godbasin.github.io/front-end-playground/front-end-basic/skill/research-and-design-process.html)    
 - [《前端性能优化--项目管理篇》](https://godbasin.github.io/front-end-playground/front-end-basic/performance/front-end-performance-optimization.html)    
