@@ -16,6 +16,7 @@ footer: MIT Licensed | Copyright © 2021-present 被删
 
 ## 最近更新
 
+[《如何进行前端职业规划》](./front-end-basic/skill/front-end-career-planning.md)   
 [《为什么项目复盘很重要》](./front-end-basic/skill/why-project-reviews-are-important.md)   
 [《如何设计与管理一个前端项目》](./front-end-basic/skill/design-and-manage-front-end-project.md)   
 [《技术方案的调研和设计过程》](./front-end-basic/skill/research-and-design-process.md)   
