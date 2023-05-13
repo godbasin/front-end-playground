@@ -4,7 +4,8 @@
 如果你访问不了，可以[来这里看](http://www.godbasin.com)哦~
 
 ## 最近更新
- 
+
+- [《复杂渲染引擎架构与设计--1.收集与渲染》](https://godbasin.github.io/front-end-playground/front-end-basic/render-engine/render-engine-render-and-collect.html)    
 - [《如何进行前端职业规划》](https://godbasin.github.io/front-end-playground/front-end-basic/skill/front-end-career-planning.html)    
 - [《为什么项目复盘很重要》](https://godbasin.github.io/front-end-playground/front-end-basic/skill/why-project-reviews-are-important.html)    
 - [《如何设计与管理一个前端项目》](https://godbasin.github.io/front-end-playground/front-end-basic/skill/design-and-manage-front-end-project.html)    
