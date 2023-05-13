@@ -62,6 +62,13 @@ module.exports = {
                     ]
                 }, 
                 {
+                    title: '复杂渲染引擎架构与设计',
+                    collapsable: true,
+                    children: [
+                        '/front-end-basic/render-engine/render-engine-render-and-collect.md',
+                    ]
+                }, 
+                {
                     title: '前端架构',
                     collapsable: true,
                     children: [
