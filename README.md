@@ -5,6 +5,7 @@
 
 ## 最近更新
 
+- [《复杂渲染引擎架构与设计--2.插件的实现》](https://godbasin.github.io/front-end-playground/front-end-basic/render-engine/render-engine-plugin-design.html)    
 - [《复杂渲染引擎架构与设计--1.收集与渲染》](https://godbasin.github.io/front-end-playground/front-end-basic/render-engine/render-engine-render-and-collect.html)    
 - [《如何进行前端职业规划》](https://godbasin.github.io/front-end-playground/front-end-basic/skill/front-end-career-planning.html)    
 - [《为什么项目复盘很重要》](https://godbasin.github.io/front-end-playground/front-end-basic/skill/why-project-reviews-are-important.html)    
