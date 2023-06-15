@@ -16,6 +16,7 @@ footer: MIT Licensed | Copyright © 2021-present 被删
 
 ## 最近更新
 
+[《复杂渲染引擎架构与设计--2.插件的实现》](./front-end-basic/render-engine/render-engine-plugin-design.md)   
 [《复杂渲染引擎架构与设计--1.收集与渲染》](./front-end-basic/render-engine/render-engine-render-and-collect.md)   
 [《如何进行前端职业规划》](./front-end-basic/skill/front-end-career-planning.md)   
 [《为什么项目复盘很重要》](./front-end-basic/skill/why-project-reviews-are-important.md)   

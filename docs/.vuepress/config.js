@@ -66,6 +66,7 @@ module.exports = {
                     collapsable: true,
                     children: [
                         '/front-end-basic/render-engine/render-engine-render-and-collect.md',
+                        '/front-end-basic/render-engine/render-engine-plugin-design.md',
                     ]
                 }, 
                 {
