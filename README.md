@@ -5,6 +5,7 @@
 
 ## 最近更新
 
+- [《大型前端项目的常见问题和解决方案》](https://godbasin.github.io/front-end-playground/front-end-basic/deep-learning/complex-front-end-project-solution.html)    
 - [《复杂渲染引擎架构与设计--2.插件的实现》](https://godbasin.github.io/front-end-playground/front-end-basic/render-engine/render-engine-plugin-design.html)    
 - [《复杂渲染引擎架构与设计--1.收集与渲染》](https://godbasin.github.io/front-end-playground/front-end-basic/render-engine/render-engine-render-and-collect.html)    
 - [《如何进行前端职业规划》](https://godbasin.github.io/front-end-playground/front-end-basic/skill/front-end-career-planning.html)    
