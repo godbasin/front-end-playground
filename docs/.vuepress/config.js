@@ -73,6 +73,7 @@ module.exports = {
                     title: '前端架构',
                     collapsable: true,
                     children: [
+                        '/front-end-basic/deep-learning/complex-front-end-project-solution.md',
                         '/front-end-basic/deep-learning/front-end-engineering.md',
                         '/front-end-basic/deep-learning/module-seperate.md',
                         '/front-end-basic/deep-learning/trace-stash.md',

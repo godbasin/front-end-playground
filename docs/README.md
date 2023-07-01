@@ -16,6 +16,7 @@ footer: MIT Licensed | Copyright © 2021-present 被删
 
 ## 最近更新
 
+[《大型前端项目的常见问题和解决方案》](./front-end-basic/deep-learning/complex-front-end-project-solution.md)   
 [《复杂渲染引擎架构与设计--2.插件的实现》](./front-end-basic/render-engine/render-engine-plugin-design.md)   
 [《复杂渲染引擎架构与设计--1.收集与渲染》](./front-end-basic/render-engine/render-engine-render-and-collect.md)   
 [《如何进行前端职业规划》](./front-end-basic/skill/front-end-career-planning.md)   
@@ -29,15 +30,6 @@ footer: MIT Licensed | Copyright © 2021-present 被删
 [《前端性能优化--Canvas篇》](./front-end-basic/performance/front-end-performance-canvas.md)   
 [《前端性能优化--卡顿篇》](./front-end-basic/performance/front-end-performance-no-responding.md)   
 [《前端性能优化--渲染篇》](./front-end-basic/performance/front-end-performance-render.md)   
-[《前端性能优化--加载流程篇》](./front-end-basic/performance/front-end-performance-startup.md)   
-[《前端性能优化--归纳篇》](./front-end-basic/performance/front-end-performance-optimization.md)   
-[《前端这几年--答辩晋级这件事》](./front-end-work/front-end-days/about-updating.md)   
-[《我所理解的前端工程化》](./front-end-basic/deep-learning/front-end-engineering.md)   
-[《Angular框架解读--Ivy编译器之变更检测》](./angular/angular-design-ivy-6-detect-change.md)   
-[《2021 年度总结--冲啊打工人》](./front-end-work/front-end-days/my-2021.md)   
-[《前端这几年--14.技术深度是伪命题吗》](./front-end-work/front-end-days/about-front-end-14.md)   
-[《Angular框架解读--Ivy编译器之增量DOM》](./angular/deep-into-angular/angular-design-ivy-5-incremental-dom.md)   
-[《前端这几年--13.关于技术开发的职业发展》](./front-end-work/front-end-days/about-front-end-13.md)   
 
 ## 赞赏码
 
