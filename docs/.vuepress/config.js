@@ -67,6 +67,7 @@ module.exports = {
                     children: [
                         '/front-end-basic/render-engine/render-engine-render-and-collect.md',
                         '/front-end-basic/render-engine/render-engine-plugin-design.md',
+                        '/front-end-basic/render-engine/render-engine-bottom-render-architecture.md',
                     ]
                 }, 
                 {
