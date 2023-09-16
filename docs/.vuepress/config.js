@@ -69,6 +69,7 @@ module.exports = {
                         '/front-end-basic/render-engine/render-engine-plugin-design.md',
                         '/front-end-basic/render-engine/render-engine-bottom-render-architecture.md',
                         '/front-end-basic/render-engine/render-engine-calculate.md',
+                        '/front-end-basic/render-engine/render-engine-calculate-split.md',
                     ]
                 }, 
                 {

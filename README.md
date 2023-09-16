@@ -5,6 +5,7 @@
 
 ## 最近更新
 
+- [《复杂渲染引擎架构与设计--5.分片计算》](https://godbasin.github.io/front-end-playground/front-end-basic/render-engine/render-engine-calculate-split.html)    
 - [《复杂渲染引擎架构与设计--4.渲染计算》](https://godbasin.github.io/front-end-playground/front-end-basic/render-engine/render-engine-calculate.html)    
 - [《复杂渲染引擎架构与设计--3.底层渲染适配》](https://godbasin.github.io/front-end-playground/front-end-basic/render-engine/render-engine-bottom-render-architecture.html)    
 - [《大型前端项目的常见问题和解决方案》](https://godbasin.github.io/front-end-playground/front-end-basic/deep-learning/complex-front-end-project-solution.html)    

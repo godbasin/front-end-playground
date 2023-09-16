@@ -16,6 +16,7 @@ footer: MIT Licensed | Copyright © 2021-present 被删
 
 ## 最近更新
 
+[《复杂渲染引擎架构与设计--5.分片计算》](./front-end-basic/render-engine/render-engine-calculate-split.md)   
 [《复杂渲染引擎架构与设计--4.渲染计算》](./front-end-basic/render-engine/render-engine-calculate.md)   
 [《复杂渲染引擎架构与设计--3.底层渲染适配》](./front-end-basic/render-engine/render-engine-bottom-render-architecture.md)   
 [《大型前端项目的常见问题和解决方案》](./front-end-basic/deep-learning/complex-front-end-project-solution.md)   
