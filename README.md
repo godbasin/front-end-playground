@@ -5,6 +5,7 @@
 
 ## 最近更新
 
+- [《复杂渲染引擎架构与设计--6.增量渲染》](https://godbasin.github.io/front-end-playground/front-end-basic/render-engine/render-engine-diff-render.html)    
 - [《复杂渲染引擎架构与设计--5.分片计算》](https://godbasin.github.io/front-end-playground/front-end-basic/render-engine/render-engine-calculate-split.html)    
 - [《复杂渲染引擎架构与设计--4.渲染计算》](https://godbasin.github.io/front-end-playground/front-end-basic/render-engine/render-engine-calculate.html)    
 - [《复杂渲染引擎架构与设计--3.底层渲染适配》](https://godbasin.github.io/front-end-playground/front-end-basic/render-engine/render-engine-bottom-render-architecture.html)    
@@ -26,11 +27,6 @@
 - [《前端性能优化--归纳篇》](https://godbasin.github.io/front-end-playground/front-end-basic/performance/front-end-performance-optimization.html)    
 - [《前端这几年--答辩晋级这件事》](https://godbasin.github.io/front-end-playground/front-end-work/front-end-days/about-updating.html)    
 - [《我所理解的前端工程化》](https://godbasin.github.io/front-end-playground/front-end-basic/deep-learning/front-end-engineering.html)   
-- [《Angular框架解读--Ivy编译器之增量DOM》](https://godbasin.github.io/front-end-playground/angular/deep-into-angular/angular-design-ivy-6-detect-change.html)   
-- [《2021 年度总结--冲啊打工人》](https://godbasin.github.io/front-end-playground/front-end-work/front-end-days/my-2021.html)   
-- [《前端这几年--14.技术深度是伪命题吗》](https://godbasin.github.io/front-end-playground/front-end-work/front-end-days/about-front-end-14.html)   
-- [《Angular框架解读--Ivy编译器之增量DOM》](https://godbasin.github.io/front-end-playground/angular/deep-into-angular/angular-design-ivy-5-incremental-dom.html)   
-- [《前端这几年--13.关于技术开发的职业发展》](https://godbasin.github.io/front-end-playground/front-end-work/front-end-days/about-front-end-13.html)   
 
 ## 游乐场内容
 欢迎来玩，门票只需要一份学习的热情~
