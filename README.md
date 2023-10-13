@@ -5,6 +5,7 @@
 
 ## 最近更新
 
+- [《复杂渲染引擎架构与设计--7.离屏渲染》](https://godbasin.github.io/front-end-playground/front-end-basic/render-engine/render-engine-offscreen-render.html)    
 - [《复杂渲染引擎架构与设计--6.增量渲染》](https://godbasin.github.io/front-end-playground/front-end-basic/render-engine/render-engine-diff-render.html)    
 - [《复杂渲染引擎架构与设计--5.分片计算》](https://godbasin.github.io/front-end-playground/front-end-basic/render-engine/render-engine-calculate-split.html)    
 - [《复杂渲染引擎架构与设计--4.渲染计算》](https://godbasin.github.io/front-end-playground/front-end-basic/render-engine/render-engine-calculate.html)    
