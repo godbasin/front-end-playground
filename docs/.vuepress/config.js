@@ -72,6 +72,7 @@ module.exports = {
                         '/front-end-basic/render-engine/render-engine-calculate-split.md',
                         '/front-end-basic/render-engine/render-engine-diff-render.md',
                         '/front-end-basic/render-engine/render-engine-offscreen-render.md',
+                        '/front-end-basic/render-engine/render-engine-element-and-event.md',
                     ]
                 }, 
                 {
