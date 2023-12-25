@@ -16,6 +16,7 @@ footer: MIT Licensed | Copyright © 2021-present 被删
 
 ## 最近更新
 
+[《从面试角度了解前端基础知识体系》](./front-end-basic/skill/learn-front-end-develop-from-interview.md)   
 [《复杂渲染引擎架构与设计--8.元素与事件》](./front-end-basic/render-engine/render-engine-element-and-event.md)   
 [《复杂渲染引擎架构与设计--7.离屏渲染》](./front-end-basic/render-engine/render-engine-offscreen-render.md)   
 [《复杂渲染引擎架构与设计--6.增量渲染》](./front-end-basic/render-engine/render-engine-diff-render.md)   
