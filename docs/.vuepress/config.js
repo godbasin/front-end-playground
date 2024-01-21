@@ -53,13 +53,14 @@ module.exports = {
                     children: [
                         '/front-end-basic/performance/front-end-performance-optimization.md',
                         '/front-end-basic/performance/front-end-performance-startup.md',
-                        '/front-end-basic/performance/front-end-performance-analyze.md',
                         '/front-end-basic/performance/front-end-performance-render.md',
                         '/front-end-basic/performance/front-end-performance-no-responding.md',
                         '/front-end-basic/performance/front-end-performance-canvas.md',
                         '/front-end-basic/performance/front-end-performance-container.md',
                         '/front-end-basic/performance/front-end-performance-ssr.md',
                         '/front-end-basic/performance/front-end-performance-optimization-project.md',
+                        '/front-end-basic/performance/front-end-performance-no-response-solution.md',
+                        '/front-end-basic/performance/front-end-performance-analyze.md',
                     ]
                 }, 
                 {

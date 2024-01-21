@@ -5,6 +5,7 @@
 
 ## 最近更新
 
+- [《前端性能优化--卡顿的监控和定位》](https://godbasin.github.io/front-end-playground/front-end-basic/performance/front-end-performance-no-response-solution.html)   
 - [《从面试角度了解前端基础知识体系》](https://godbasin.github.io/front-end-playground/front-end-basic/skill/learn-front-end-develop-from-interview.html)   
 - [《复杂渲染引擎架构与设计--8.元素与事件》](https://godbasin.github.io/front-end-playground/front-end-basic/render-engine/render-engine-element-and-event.html)    
 - [《复杂渲染引擎架构与设计--7.离屏渲染》](https://godbasin.github.io/front-end-playground/front-end-basic/render-engine/render-engine-offscreen-render.html)    
