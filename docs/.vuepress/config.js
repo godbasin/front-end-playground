@@ -61,6 +61,7 @@ module.exports = {
                         '/front-end-basic/performance/front-end-performance-optimization-project.md',
                         '/front-end-basic/performance/front-end-performance-no-response-solution.md',
                         '/front-end-basic/performance/front-end-performance-analyze.md',
+                        '/front-end-basic/performance/front-end-performance-about-performanceobserver.md',
                     ]
                 }, 
                 {
