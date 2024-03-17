@@ -5,6 +5,7 @@
 
 ## 最近更新
 
+- [《前端性能优化--数据指标体系》](https://godbasin.github.io/front-end-playground/front-end-basic/performance/front-end-performance-metric.html)   
 - [《有趣的 PerformanceObserver》](https://godbasin.github.io/front-end-playground/front-end-basic/performance/front-end-performance-about-performanceobserver.html)   
 - [《前端性能优化--卡顿的监控和定位》](https://godbasin.github.io/front-end-playground/front-end-basic/performance/front-end-performance-no-response-solution.html)   
 - [《从面试角度了解前端基础知识体系》](https://godbasin.github.io/front-end-playground/front-end-basic/skill/learn-front-end-develop-from-interview.html)   
