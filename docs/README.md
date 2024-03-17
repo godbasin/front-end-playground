@@ -16,6 +16,7 @@ footer: MIT Licensed | Copyright © 2021-present 被删
 
 ## 最近更新
 
+[《前端性能优化--数据指标体系》](./front-end-basic/performance/front-end-performance-metric.md)   
 [《有趣的 PerformanceObserver》](./front-end-basic/performance/front-end-performance-about-performanceobserver.md)   
 [《前端性能优化--卡顿的监控和定位》](./front-end-basic/performance/front-end-performance-no-response-solution.md)   
 [《从面试角度了解前端基础知识体系》](./front-end-basic/skill/learn-front-end-develop-from-interview.md)   
