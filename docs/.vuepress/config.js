@@ -51,6 +51,7 @@ module.exports = {
                     title: '前端性能优化',
                     collapsable: true,
                     children: [
+                        '/front-end-basic/performance/front-end-performance-long-task.md',
                         '/front-end-basic/performance/front-end-performance-optimization.md',
                         '/front-end-basic/performance/front-end-performance-startup.md',
                         '/front-end-basic/performance/front-end-performance-render.md',

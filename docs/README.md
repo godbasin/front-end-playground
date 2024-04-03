@@ -16,6 +16,7 @@ footer: MIT Licensed | Copyright © 2021-present 被删
 
 ## 最近更新
 
+[《让你的长任务在 50 毫秒内结束》](./front-end-basic/performance/front-end-performance-long-task.md)   
 [《前端性能优化--数据指标体系》](./front-end-basic/performance/front-end-performance-metric.md)   
 [《有趣的 PerformanceObserver》](./front-end-basic/performance/front-end-performance-about-performanceobserver.md)   
 [《前端性能优化--卡顿的监控和定位》](./front-end-basic/performance/front-end-performance-no-response-solution.md)   
