@@ -4,7 +4,8 @@
 如果你访问不了，可以[来这里看](http://www.godbasin.com)哦~
 
 ## 最近更新
- 
+
+- [《前端性能优化--用户卡顿检测》](https://godbasin.github.io/front-end-playground/front-end-basic/performance/front-end-performance-jank-detect.html)   
 - [《让你的长任务在 50 毫秒内结束》](https://godbasin.github.io/front-end-playground/front-end-basic/performance/front-end-performance-long-task.html)   
 - [《前端性能优化--数据指标体系》](https://godbasin.github.io/front-end-playground/front-end-basic/performance/front-end-performance-metric.html)   
 - [《有趣的 PerformanceObserver》](https://godbasin.github.io/front-end-playground/front-end-basic/performance/front-end-performance-about-performanceobserver.html)   
