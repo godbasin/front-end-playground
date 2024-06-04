@@ -51,7 +51,6 @@ module.exports = {
                     title: '前端性能优化',
                     collapsable: true,
                     children: [
-                        '/front-end-basic/performance/front-end-performance-jank-detect.md',
                         '/front-end-basic/performance/front-end-performance-long-task.md',
                         '/front-end-basic/performance/front-end-performance-optimization.md',
                         '/front-end-basic/performance/front-end-performance-startup.md',
@@ -62,9 +61,11 @@ module.exports = {
                         '/front-end-basic/performance/front-end-performance-ssr.md',
                         '/front-end-basic/performance/front-end-performance-optimization-project.md',
                         '/front-end-basic/performance/front-end-performance-no-response-solution.md',
+                        '/front-end-basic/performance/front-end-performance-jank-detect.md',
+                        '/front-end-basic/performance/front-end-performance-metric.md',
+                        '/front-end-basic/performance/front-end-performance-jank-heartbeat-monitor.md',
                         '/front-end-basic/performance/front-end-performance-analyze.md',
                         '/front-end-basic/performance/front-end-performance-about-performanceobserver.md',
-                        '/front-end-basic/performance/front-end-performance-metric.md',
                     ]
                 }, 
                 {
