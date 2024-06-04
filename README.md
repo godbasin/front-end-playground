@@ -5,6 +5,7 @@
 
 ## 最近更新
 
+- [《前端性能优化--卡顿心跳检测》](https://godbasin.github.io/front-end-playground/front-end-basic/performance/front-end-performance-jank-heartbeat-monitor.html)   
 - [《前端性能优化--用户卡顿检测》](https://godbasin.github.io/front-end-playground/front-end-basic/performance/front-end-performance-jank-detect.html)   
 - [《让你的长任务在 50 毫秒内结束》](https://godbasin.github.io/front-end-playground/front-end-basic/performance/front-end-performance-long-task.html)   
 - [《前端性能优化--数据指标体系》](https://godbasin.github.io/front-end-playground/front-end-basic/performance/front-end-performance-metric.html)   
@@ -71,7 +72,7 @@
 
 另外可能后面如果有空，还会录制一些视频吧~因为文章能描述和表达的东西比较局限，代码调试、项目设计、写代码的思考过程，这些其实是很美妙的事情，希望也能把那份快乐给到你们。
 
-> 最新消息：视频已经有了哦~欢迎来我的 B 站（[被删](https://space.bilibili.com/42233366)）玩哦~
+> 最新消息：视频已经有了哦，欢迎来我的 B 站（[被删](https://space.bilibili.com/42233366)）玩哦~
 
 ## 赞赏码
 
