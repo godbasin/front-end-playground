@@ -5,6 +5,7 @@
 
 ## 最近更新
 
+- [《前端性能优化--R 树的使用》](https://godbasin.github.io/front-end-playground/front-end-basic/performance/front-end-performance-r-tree.html)   
 - [《前端性能优化--卡顿心跳检测》](https://godbasin.github.io/front-end-playground/front-end-basic/performance/front-end-performance-jank-heartbeat-monitor.html)   
 - [《前端性能优化--用户卡顿检测》](https://godbasin.github.io/front-end-playground/front-end-basic/performance/front-end-performance-jank-detect.html)   
 - [《让你的长任务在 50 毫秒内结束》](https://godbasin.github.io/front-end-playground/front-end-basic/performance/front-end-performance-long-task.html)   
