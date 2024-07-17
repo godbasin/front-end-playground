@@ -16,6 +16,7 @@ footer: MIT Licensed | Copyright © 2021-present 被删
 
 ## 最近更新
 
+[《前端性能优化--R 树的使用》](./front-end-basic/performance/front-end-performance-r-tree.md)   
 [《前端性能优化--卡顿心跳检测》](./front-end-basic/performance/front-end-performance-jank-heartbeat-monitor.md)   
 [《前端性能优化--用户卡顿检测》](./front-end-basic/performance/front-end-performance-jank-detect.md)   
 [《让你的长任务在 50 毫秒内结束》](./front-end-basic/performance/front-end-performance-long-task.md)   

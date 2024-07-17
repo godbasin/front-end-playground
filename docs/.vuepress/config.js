@@ -66,6 +66,7 @@ module.exports = {
                         '/front-end-basic/performance/front-end-performance-jank-heartbeat-monitor.md',
                         '/front-end-basic/performance/front-end-performance-analyze.md',
                         '/front-end-basic/performance/front-end-performance-about-performanceobserver.md',
+                        '/front-end-basic/performance/front-end-performance-r-tree.md',
                     ]
                 }, 
                 {
