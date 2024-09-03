@@ -15,6 +15,8 @@ footer: MIT Licensed | Copyright © 2021-present 被删
 <div style="text-align: center;">
 
 ## 最近更新
+
+[《前端性能优化--JavaScript 数组解构》](./front-end-basic/performance/front-end-performance-array-performance.md)   
 [《前端性能优化--任务管理和调度》](./front-end-basic/performance/front-end-performance-task-schedule.md)   
 [《前端性能优化--R 树的使用》](./front-end-basic/performance/front-end-performance-r-tree.md)   
 [《前端性能优化--卡顿心跳检测》](./front-end-basic/performance/front-end-performance-jank-heartbeat-monitor.md)   
