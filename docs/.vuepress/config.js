@@ -64,6 +64,7 @@ module.exports = {
                         '/front-end-basic/performance/front-end-performance-jank-detect.md',
                         '/front-end-basic/performance/front-end-performance-metric.md',
                         '/front-end-basic/performance/front-end-performance-jank-heartbeat-monitor.md',
+                        '/front-end-basic/performance/front-end-performance-jank-monitor.md',
                         '/front-end-basic/performance/front-end-performance-r-tree.md',
                         '/front-end-basic/performance/front-end-performance-task-schedule.md',
                         '/front-end-basic/performance/front-end-performance-array-performance.md',
