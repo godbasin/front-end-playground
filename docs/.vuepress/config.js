@@ -45,6 +45,7 @@ module.exports = {
                         '/front-end-basic/skill/design-and-manage-front-end-project.md',
                         '/front-end-basic/skill/why-project-reviews-are-important.md',
                         '/front-end-basic/skill/front-end-career-planning.md',
+                        '/front-end-basic/skill/tech-debt.md',
                     ]
                 }, 
                 {
