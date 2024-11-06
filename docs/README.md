@@ -16,6 +16,7 @@ footer: MIT Licensed | Copyright © 2021-present 被删
 
 ## 最近更新
 
+[《前端性能优化--享元模式》](./front-end-basic/performance/front-end-performance-flyweight-pattern.md)   
 [《项目中的技术债务》](./front-end-basic/skill/tech-debt.md)   
 [《前端性能优化--卡顿链路追踪》](./front-end-basic/performance/front-end-performance-jank-monitor.md)   
 [《前端性能优化--JavaScript 数组解构》](./front-end-basic/performance/front-end-performance-array-performance.md)   
