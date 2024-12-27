@@ -69,8 +69,9 @@ module.exports = {
                         '/front-end-basic/performance/front-end-performance-r-tree.md',
                         '/front-end-basic/performance/front-end-performance-task-schedule.md',
                         '/front-end-basic/performance/front-end-performance-array-performance.md',
-                        '/front-end-basic/performance/front-end-performance-analyze.md',
                         '/front-end-basic/performance/front-end-performance-flyweight-pattern.md',
+                        '/front-end-basic/performance/front-end-performance-code-detail.md',
+                        '/front-end-basic/performance/front-end-performance-analyze.md',
                         '/front-end-basic/performance/front-end-performance-about-performanceobserver.md',
                     ]
                 }, 
