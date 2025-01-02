@@ -5,6 +5,7 @@
 
 ## 最近更新
 
+- [《前端性能优化--二进制压缩数据内容》](https://godbasin.github.io/front-end-playground/front-end-basic/performance/front-end-performance-binary-attribute.html)   
 - [《前端性能优化--代码习惯》](https://godbasin.github.io/front-end-playground/front-end-basic/performance/front-end-performance-code-detail.html)   
 - [《前端性能优化--享元模式》](https://godbasin.github.io/front-end-playground/front-end-basic/performance/front-end-performance-flyweight-pattern.html)   
 - [《项目中的技术债务》](https://godbasin.github.io/front-end-playground/front-end-basic/skill/tech-debt.html)   
