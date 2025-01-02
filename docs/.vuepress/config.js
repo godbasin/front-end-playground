@@ -71,6 +71,7 @@ module.exports = {
                         '/front-end-basic/performance/front-end-performance-array-performance.md',
                         '/front-end-basic/performance/front-end-performance-flyweight-pattern.md',
                         '/front-end-basic/performance/front-end-performance-code-detail.md',
+                        '/front-end-basic/performance/front-end-performance-binary-attribute.md',
                         '/front-end-basic/performance/front-end-performance-analyze.md',
                         '/front-end-basic/performance/front-end-performance-about-performanceobserver.md',
                     ]
