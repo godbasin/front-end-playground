@@ -16,6 +16,7 @@ footer: MIT Licensed | Copyright © 2021-present 被删
 
 ## 最近更新
 
+[《前端性能优化--FPS页面流畅度》](./front-end-basic/performance/front-end-performance-fps-monitor.md)   
 [《前端性能优化--JavaScript 引擎性能》](./front-end-basic/performance/front-end-performance-fast-properties.md)   
 [《前端性能优化--二进制压缩数据内容》](./front-end-basic/performance/front-end-performance-binary-attribute.md)   
 [《前端性能优化--代码习惯》](./front-end-basic/performance/front-end-performance-code-detail.md)   
