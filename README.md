@@ -5,6 +5,7 @@
 
 ## 最近更新
 
+- [《前端性能优化--FPS页面流畅度》](https://godbasin.github.io/front-end-playground/front-end-basic/performance/front-end-performance-fps-monitor.html)   
 - [《前端性能优化--JavaScript 引擎性能》](https://godbasin.github.io/front-end-playground/front-end-basic/performance/front-end-performance-fast-properties.html)   
 - [《前端性能优化--二进制压缩数据内容》](https://godbasin.github.io/front-end-playground/front-end-basic/performance/front-end-performance-binary-attribute.html)   
 - [《前端性能优化--代码习惯》](https://godbasin.github.io/front-end-playground/front-end-basic/performance/front-end-performance-code-detail.html)   
