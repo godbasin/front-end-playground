@@ -16,6 +16,7 @@ footer: MIT Licensed | Copyright © 2021-present 被删
 
 ## 最近更新
 
+[《前端性能优化--预加载顺序设计》](./front-end-basic/performance/front-end-performance-preload-order.md)   
 [《前端性能优化--FPS页面流畅度》](./front-end-basic/performance/front-end-performance-fps-monitor.md)   
 [《前端性能优化--JavaScript 引擎性能》](./front-end-basic/performance/front-end-performance-fast-properties.md)   
 [《前端性能优化--二进制压缩数据内容》](./front-end-basic/performance/front-end-performance-binary-attribute.md)   

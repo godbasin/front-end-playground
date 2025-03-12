@@ -74,6 +74,7 @@ module.exports = {
                         '/front-end-basic/performance/front-end-performance-binary-attribute.md',
                         '/front-end-basic/performance/front-end-performance-fast-properties.md',
                         '/front-end-basic/performance/front-end-performance-fps-monitor.md',
+                        '/front-end-basic/performance/front-end-performance-preload-order.md',
                         '/front-end-basic/performance/front-end-performance-analyze.md',
                         '/front-end-basic/performance/front-end-performance-about-performanceobserver.md',
                     ]
