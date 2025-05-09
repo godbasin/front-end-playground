@@ -5,6 +5,7 @@
 
 ## 最近更新
 
+- [《复杂渲染引擎架构与设计--9.预热计算》](https://godbasin.github.io/front-end-playground/front-end-basic/render-engine/render-engine-pre-calculate.html)   
 - [《前端性能优化--预加载顺序设计》](https://godbasin.github.io/front-end-playground/front-end-basic/performance/front-end-performance-preload-order.html)   
 - [《前端性能优化--FPS页面流畅度》](https://godbasin.github.io/front-end-playground/front-end-basic/performance/front-end-performance-fps-monitor.html)   
 - [《前端性能优化--JavaScript 引擎性能》](https://godbasin.github.io/front-end-playground/front-end-basic/performance/front-end-performance-fast-properties.html)   
