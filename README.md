@@ -5,6 +5,7 @@
 
 ## 最近更新
 
+- [《前端基础补齐--有关 JavaScript 继承》](https://godbasin.github.io/front-end-playground/front-end-basic/front-end/front-end-basic-js-extend.html)  
 - [《复杂渲染引擎架构与设计--10.降级渲染》](https://godbasin.github.io/front-end-playground/front-end-basic/render-engine/render-engine-downgrate-render.html)   
 - [《复杂渲染引擎架构与设计--9.预热计算》](https://godbasin.github.io/front-end-playground/front-end-basic/render-engine/render-engine-pre-calculate.html)   
 - [《前端性能优化--预加载顺序设计》](https://godbasin.github.io/front-end-playground/front-end-basic/performance/front-end-performance-preload-order.html)   

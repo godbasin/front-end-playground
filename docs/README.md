@@ -16,6 +16,7 @@ footer: MIT Licensed | Copyright © 2021-present 被删
 
 ## 最近更新
 
+[《前端基础补齐--有关 JavaScript 继承》](./front-end-basic/front-end/front-end-basic-js-extend.md)   
 [《复杂渲染引擎架构与设计--10.降级渲染》](./front-end-basic/render-engine/render-engine-downgrate-render.md)   
 [《复杂渲染引擎架构与设计--9.预热计算》](./front-end-basic/render-engine/render-engine-pre-calculate.md)   
 [《前端性能优化--预加载顺序设计》](./front-end-basic/performance/front-end-performance-preload-order.md)   

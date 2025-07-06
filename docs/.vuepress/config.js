@@ -142,6 +142,7 @@ module.exports = {
                         '/front-end-basic/front-end/front-end-8.md',
                         '/front-end-basic/front-end/front-end-9.md',
                         '/front-end-basic/front-end/front-end-10.md',
+                        '/front-end-basic/front-end/front-end-basic-js-extend.md',
                     ]
                 }
             ],     
