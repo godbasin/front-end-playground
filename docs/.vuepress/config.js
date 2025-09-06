@@ -77,6 +77,7 @@ module.exports = {
                         '/front-end-basic/performance/front-end-performance-preload-order.md',
                         '/front-end-basic/performance/front-end-performance-analyze.md',
                         '/front-end-basic/performance/front-end-performance-about-performanceobserver.md',
+                        '/front-end-basic/performance/front-end-performance-website-quality-score.md',
                     ]
                 }, 
                 {

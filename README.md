@@ -5,6 +5,7 @@
 
 ## 最近更新
 
+- [《前端性能优化--网页质量得分》](https://godbasin.github.io/front-end-playground/front-end-basic/performance/front-end-performance-website-quality-score.html)  
 - [《前端基础补齐--有关 JavaScript 单线程》](https://godbasin.github.io/front-end-playground/front-end-basic/front-end/front-end-basic-js-eventloop.html)  
 - [《前端基础补齐--有关 JavaScript 代码执行》](https://godbasin.github.io/front-end-playground/front-end-basic/front-end/front-end-basic-js-engine.html)  
 - [《前端基础补齐--有关 JavaScript 继承》](https://godbasin.github.io/front-end-playground/front-end-basic/front-end/front-end-basic-js-extend.html)  

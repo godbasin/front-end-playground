@@ -16,6 +16,7 @@ footer: MIT Licensed | Copyright © 2021-present 被删
 
 ## 最近更新
 
+[《前端性能优化--网页质量得分》](./front-end-basic/performance/front-end-performance-website-quality-score.md)  
 [《前端基础补齐--有关 JavaScript 单线程》](./front-end-basic/front-end/front-end-basic-js-eventloop.md)  
 [《前端基础补齐--有关 JavaScript 代码执行》](./front-end-basic/front-end/front-end-basic-js-engine.md)  
 [《前端基础补齐--有关 JavaScript 继承》](./front-end-basic/front-end/front-end-basic-js-extend.md)   
