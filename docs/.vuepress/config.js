@@ -144,6 +144,7 @@ module.exports = {
                         '/front-end-basic/front-end/front-end-10.md',
                         '/front-end-basic/front-end/front-end-basic-js-extend.md',
                         '/front-end-basic/front-end/front-end-basic-js-engine.md',
+                        '/front-end-basic/front-end/front-end-basic-js-eventloop.md',
                     ]
                 }
             ],     
