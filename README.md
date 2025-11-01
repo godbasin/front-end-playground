@@ -5,6 +5,7 @@
 
 ## 最近更新
 
+- [《如何提升项目管理能力》](https://godbasin.github.io/front-end-playground/front-end-basic/skill/how-to-manage-front-end-project.html)  
 - [《前端性能优化--网页复杂度设计》](https://godbasin.github.io/front-end-playground/front-end-basic/performance/front-end-performance-website-complexity-design.html)  
 - [《前端性能优化--网页质量得分》](https://godbasin.github.io/front-end-playground/front-end-basic/performance/front-end-performance-website-quality-score.html)  
 - [《前端基础补齐--有关 JavaScript 单线程》](https://godbasin.github.io/front-end-playground/front-end-basic/front-end/front-end-basic-js-eventloop.html)  
