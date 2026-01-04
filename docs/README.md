@@ -16,6 +16,7 @@ footer: MIT Licensed | Copyright © 2021-present 被删
 
 ## 最近更新
 
+[《2026 程序员指南》](./front-end-work/front-end-days/2026-programer.md)  
 [《如何提升项目管理能力》](./front-end-basic/skill/how-to-manage-front-end-project.md)  
 [《前端性能优化--网页复杂度设计》](./front-end-basic/performance/front-end-performance-website-complexity-design.md)  
 [《前端性能优化--网页质量得分》](./front-end-basic/performance/front-end-performance-website-quality-score.md)  
