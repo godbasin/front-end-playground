@@ -5,6 +5,7 @@
 
 ## 最近更新
 
+- [《前端这几年--16.AI时代的开发》](https://godbasin.github.io/front-end-playground/front-end-work/front-end-days/about-front-end-16.md)  
 - [《2026 程序员指南》](https://godbasin.github.io/front-end-playground/front-end-work/front-end-days/2026-programer.html)    
 - [《如何提升项目管理能力》](https://godbasin.github.io/front-end-playground/front-end-basic/skill/how-to-manage-front-end-project.html)  
 - [《前端性能优化--网页复杂度设计》](https://godbasin.github.io/front-end-playground/front-end-basic/performance/front-end-performance-website-complexity-design.html)  
@@ -44,18 +45,7 @@
 - [《如何进行前端职业规划》](https://godbasin.github.io/front-end-playground/front-end-basic/skill/front-end-career-planning.html)    
 - [《为什么项目复盘很重要》](https://godbasin.github.io/front-end-playground/front-end-basic/skill/why-project-reviews-are-important.html)    
 - [《如何设计与管理一个前端项目》](https://godbasin.github.io/front-end-playground/front-end-basic/skill/design-and-manage-front-end-project.html)    
-- [《技术方案的调研和设计过程》](https://godbasin.github.io/front-end-playground/front-end-basic/skill/research-and-design-process.html)    
-- [《前端性能优化--项目管理篇》](https://godbasin.github.io/front-end-playground/front-end-basic/performance/front-end-performance-optimization.html)    
-- [《前端性能优化--SSR篇》](https://godbasin.github.io/front-end-playground/front-end-basic/performance/front-end-performance-ssr.html)    
-- [《前端这几年--15.关于互联网寒冬》](https://godbasin.github.io/front-end-playground/front-end-work/front-end-days/about-front-end-15.html)   
-- [《前端性能优化--容器篇》](https://godbasin.github.io/front-end-playground/front-end-basic/performance/front-end-performance-container.html)    
-- [《前端性能优化--Canvas篇》](https://godbasin.github.io/front-end-playground/front-end-basic/performance/front-end-performance-canvas.html)    
-- [《前端性能优化--卡顿篇》](https://godbasin.github.io/front-end-playground/front-end-basic/performance/front-end-performance-no-responding.html)    
-- [《前端性能优化--渲染篇》](https://godbasin.github.io/front-end-playground/front-end-basic/performance/front-end-performance-render.html)    
-- [《前端性能优化--加载流程篇》](https://godbasin.github.io/front-end-playground/front-end-basic/performance/front-end-performance-startup.html)    
-- [《前端性能优化--归纳篇》](https://godbasin.github.io/front-end-playground/front-end-basic/performance/front-end-performance-optimization.html)    
-- [《前端这几年--答辩晋级这件事》](https://godbasin.github.io/front-end-playground/front-end-work/front-end-days/about-updating.html)    
-- [《我所理解的前端工程化》](https://godbasin.github.io/front-end-playground/front-end-basic/deep-learning/front-end-engineering.html)   
+- [《技术方案的调研和设计过程》](https://godbasin.github.io/front-end-playground/front-end-basic/skill/research-and-design-process.html)      
 
 ## 游乐场内容
 欢迎来玩，门票只需要一份学习的热情~

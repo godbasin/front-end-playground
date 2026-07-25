@@ -16,6 +16,7 @@ footer: MIT Licensed | Copyright © 2021-present 被删
 
 ## 最近更新
 
+[《前端这几年--16.AI时代的开发》](./front-end-work/front-end-days/about-front-end-16.md)  
 [《2026 程序员指南》](./front-end-work/front-end-days/2026-programer.md)  
 [《如何提升项目管理能力》](./front-end-basic/skill/how-to-manage-front-end-project.md)  
 [《前端性能优化--网页复杂度设计》](./front-end-basic/performance/front-end-performance-website-complexity-design.md)  
@@ -56,13 +57,6 @@ footer: MIT Licensed | Copyright © 2021-present 被删
 [《为什么项目复盘很重要》](./front-end-basic/skill/why-project-reviews-are-important.md)   
 [《如何设计与管理一个前端项目》](./front-end-basic/skill/design-and-manage-front-end-project.md)   
 [《技术方案的调研和设计过程》](./front-end-basic/skill/research-and-design-process.md)   
-[《前端性能优化--项目管理篇》](./front-end-basic/performance/front-end-performance-optimization.md)   
-[《前端性能优化--SSR篇》](./front-end-basic/performance/front-end-performance-ssr.md)   
-[《前端这几年--15.关于互联网寒冬》](./front-end-work/front-end-days/about-front-end-15.md)   
-[《前端性能优化--容器篇》](./front-end-basic/performance/front-end-performance-container.md)   
-[《前端性能优化--Canvas篇》](./front-end-basic/performance/front-end-performance-canvas.md)   
-[《前端性能优化--卡顿篇》](./front-end-basic/performance/front-end-performance-no-responding.md)   
-[《前端性能优化--渲染篇》](./front-end-basic/performance/front-end-performance-render.md)   
 
 ## 赞赏码
 
