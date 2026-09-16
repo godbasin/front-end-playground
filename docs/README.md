@@ -16,6 +16,7 @@ footer: MIT Licensed | Copyright © 2021-present 被删
 
 ## 最近更新
 
+[《如何将真实债务项目重构成 AI 可维护项目》](./ai/front-end/ai-refactor-with-agents.md)  
 [《前端这几年--16.AI时代的开发》](./front-end-work/front-end-days/about-front-end-16.md)  
 [《2026 程序员指南》](./front-end-work/front-end-days/2026-programer.md)  
 [《如何提升项目管理能力》](./front-end-basic/skill/how-to-manage-front-end-project.md)  

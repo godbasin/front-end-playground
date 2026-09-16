@@ -26,6 +26,7 @@ module.exports = {
         nav: [
             { text: '概述', link: '/' },
             { text: '前端领域', link: '/front-end-basic/' },
+            { text: 'AI时代', link: '/ai/' },
             { text: 'Vue学习', link: '/vue/' },
             { text: '小程序学习', link: '/wxapp/' },
             { text: 'Angular学习', link: '/angular/' },
@@ -150,7 +151,16 @@ module.exports = {
                         '/front-end-basic/front-end/front-end-basic-js-eventloop.md',
                     ]
                 }
-            ],     
+            ],   
+            '/ai/': [
+                {
+                    title: 'AI时代的前端',
+                    collapsable: false,
+                    children: [
+                        '/ai/front-end/ai-refactor-with-agents.md',
+                    ]
+                }
+            ],  
             '/vue/': [
                 {
                     title: '深入理解Vue.js与实战',
