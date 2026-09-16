@@ -4,7 +4,7 @@
 如果你访问不了，可以[来这里看](http://www.godbasin.com)哦~
 
 ## 最近更新
-
+- [《如何将真实债务项目重构成 AI 可维护项目》](https://godbasin.github.io/front-end-playground/ai/front-end/ai-refactor-with-agents.md)  
 - [《前端这几年--16.AI时代的开发》](https://godbasin.github.io/front-end-playground/front-end-work/front-end-days/about-front-end-16.md)  
 - [《2026 程序员指南》](https://godbasin.github.io/front-end-playground/front-end-work/front-end-days/2026-programer.html)    
 - [《如何提升项目管理能力》](https://godbasin.github.io/front-end-playground/front-end-basic/skill/how-to-manage-front-end-project.html)  
