@@ -73,4 +73,5 @@ HR更多是在考察面试者的稳定性，常见的问题包括“为什么跳
 
 ## 结束语
 一次面试过程算下来可能多的有七八轮，少的也有四五轮，找工作真是场持久战呢。一份合适的工作真的不容易，我们常常在这个过程慢慢地失去最初对这个行业的憧憬，但请不要放弃，要相信困难的日子会慢慢过去的。
-如果你想了解这些年前端的一些感想和经验，也可看[《前端这些年》](../front-end-days/about-front-end-1-begin-in)系列。
+如果你想了解这些年前端的一些感想和经验，也可看[《前端这几年》](../front-end-days/about-front-end-1-begin-in)
+http://www.godbasin.com/front-end-work/front-end-days/about-front-end-1-begin-in.html系列。
